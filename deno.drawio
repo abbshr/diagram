@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-06-11T07:34:06.158Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36" etag="leCre4ftFpD62Kc19ApY" version="13.2.1" type="github">
+<mxfile host="app.diagrams.net" modified="2020-06-11T07:48:06.397Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36" etag="oc73cGfaIdAf9sysUuYM" version="13.2.1" type="github">
   <diagram id="g0dbOOIlQTnFfYd_qdzW" name="第 1 页">
     <mxGraphModel dx="2893" dy="2323" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -318,6 +318,15 @@
         </mxCell>
         <mxCell id="Ko-rPgLK9G_IWwCupDyg-4" value="js 侧 core.shared" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="910" y="585" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Ko-rPgLK9G_IWwCupDyg-5" value="es module 操作" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="370" y="310" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Ko-rPgLK9G_IWwCupDyg-6" value="op, 直接 js 通信, 执行 js 代码" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="530" y="310" width="160" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Ko-rPgLK9G_IWwCupDyg-7" value="worker 间通信" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="240" y="310" width="90" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

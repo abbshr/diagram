@@ -1,1 +1,49 @@
-<mxfile host="app.diagrams.net" modified="2020-06-19T07:44:37.724Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36" version="13.2.6" etag="LR9l__jGz8Uh1hsHLl7a" type="github"><diagram id="WcXPz_RxtQG5PR3Pa9zU">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-06-19T07:53:26.192Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36" etag="hAVKkJrbxn9GhTgDZo66" version="13.2.6" type="github">
+  <diagram id="WcXPz_RxtQG5PR3Pa9zU" name="第 1 页">
+    <mxGraphModel dx="2893" dy="1154" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="zvjhcLa3CVu2yNJe212y-1" value="Agent" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="390" width="420" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zvjhcLa3CVu2yNJe212y-2" value="Encoder" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="660" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zvjhcLa3CVu2yNJe212y-3" value="Decoder" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="660" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zvjhcLa3CVu2yNJe212y-4" value="Peer" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="760" width="270" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zvjhcLa3CVu2yNJe212y-5" value="Packet" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="500" y="660" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zvjhcLa3CVu2yNJe212y-6" value="ops API" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="480" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zvjhcLa3CVu2yNJe212y-7" value="Instruction" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="560" width="420" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zvjhcLa3CVu2yNJe212y-8" value="会话建立, 保活, 终止管理 &amp;amp; 指令管理" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-20" y="410" width="200" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="zvjhcLa3CVu2yNJe212y-9" value="指令请求 &amp;amp; 处理接口" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="60" y="500" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="zvjhcLa3CVu2yNJe212y-11" value="Request-Response 指令通信模型管理" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-30" y="580" width="210" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="zvjhcLa3CVu2yNJe212y-12" value="报文 &amp;amp; 编解码器" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="90" y="680" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="zvjhcLa3CVu2yNJe212y-13" value="TCP 连接对等端管理" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="60" y="780" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="zvjhcLa3CVu2yNJe212y-14" value="ops handles" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="500" y="480" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

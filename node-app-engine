@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-07-31T05:40:02.179Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" etag="vxTcMttcK949JBRDuIC7" version="13.5.5" type="github">
+<mxfile host="app.diagrams.net" modified="2020-07-31T05:44:12.203Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" etag="Y3yhDzCM45ijiMvT_4w-" version="13.5.5" type="github">
   <diagram id="hWo2aQM5unCId87aPsAW" name="Page-1">
     <mxGraphModel dx="2893" dy="1154" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -292,11 +292,23 @@
         <mxCell id="nuCAsvdCeQjX_S5CnILc-17" value="VM 上下文核心库" style="shape=note;strokeWidth=2;fontSize=14;size=20;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontColor=#666600;" vertex="1" parent="1">
           <mxGeometry x="757" y="610" width="163" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="nuCAsvdCeQjX_S5CnILc-18" value="VM 和 Host 交互接口" style="shape=note;strokeWidth=2;fontSize=14;size=20;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontColor=#666600;" vertex="1" parent="1">
-          <mxGeometry x="757" y="700" width="163" height="80" as="geometry" />
+        <mxCell id="nuCAsvdCeQjX_S5CnILc-18" value="VM 侧和 Overlord 侧交互接口" style="shape=note;strokeWidth=2;fontSize=14;size=20;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontColor=#666600;" vertex="1" parent="1">
+          <mxGeometry x="757" y="700" width="223" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="nuCAsvdCeQjX_S5CnILc-19" value="Host 侧核心组件:&lt;br&gt;节点自身管理&lt;br&gt;vm 状态管理&lt;br&gt;vm 特权请求/资源管理&lt;br&gt;跨节点通信管理" style="shape=note;strokeWidth=2;fontSize=14;size=20;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontColor=#666600;" vertex="1" parent="1">
+        <mxCell id="nuCAsvdCeQjX_S5CnILc-19" value="Overlord&amp;nbsp;侧核心组件:&lt;br&gt;节点自身管理&lt;br&gt;vm 状态管理&lt;br&gt;vm 特权请求/资源管理&lt;br&gt;跨节点通信管理" style="shape=note;strokeWidth=2;fontSize=14;size=20;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontColor=#666600;" vertex="1" parent="1">
           <mxGeometry x="757" y="790" width="333" height="135" as="geometry" />
+        </mxCell>
+        <mxCell id="nuCAsvdCeQjX_S5CnILc-20" value="" style="endArrow=none;dashed=1;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="37" y="750" as="sourcePoint" />
+            <mxPoint x="757" y="750" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nuCAsvdCeQjX_S5CnILc-21" value="VM 侧" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="690" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="nuCAsvdCeQjX_S5CnILc-22" value="Overlord 侧" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="10" y="765" width="80" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

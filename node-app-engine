@@ -1,9 +1,12 @@
-<mxfile host="app.diagrams.net" modified="2020-07-31T05:48:06.821Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" etag="0W5nCipfwGXe_gHUJoe2" version="13.5.5" type="github">
+<mxfile host="app.diagrams.net" modified="2020-07-31T12:06:19.915Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" etag="y-uVC7VhMqqSmLWLNOtn" version="13.5.5" type="github">
   <diagram id="hWo2aQM5unCId87aPsAW" name="Page-1">
     <mxGraphModel dx="2893" dy="1154" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="nuCAsvdCeQjX_S5CnILc-49" value="" style="rounded=1;arcSize=10;dashed=0;fillColor=none;gradientColor=none;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1192" y="246" width="610" height="384" as="geometry" />
+        </mxCell>
         <mxCell id="nuCAsvdCeQjX_S5CnILc-9" value="" style="rounded=1;arcSize=10;dashed=0;fillColor=none;gradientColor=none;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="109" y="250" width="610" height="730" as="geometry" />
         </mxCell>
@@ -307,6 +310,27 @@
         </mxCell>
         <mxCell id="nuCAsvdCeQjX_S5CnILc-23" value="Container" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-220" y="751" width="120" height="145" as="geometry" />
+        </mxCell>
+        <mxCell id="nuCAsvdCeQjX_S5CnILc-53" value="Session Client" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1437" y="446" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nuCAsvdCeQjX_S5CnILc-54" value="State&lt;br&gt;Management" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1437" y="274.5" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nuCAsvdCeQjX_S5CnILc-61" value="SideCar" style="dashed=0;html=1;fillColor=#F0F2F5;strokeColor=none;align=center;rounded=1;arcSize=10;fontColor=#596780;fontStyle=1;fontSize=11;shadow=0" vertex="1" parent="1">
+          <mxGeometry x="1452" y="226" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="nuCAsvdCeQjX_S5CnILc-62" value="状态管理" style="shape=note;strokeWidth=2;fontSize=14;size=20;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontColor=#666600;" vertex="1" parent="1">
+          <mxGeometry x="1840" y="336" width="110.00000000000001" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="nuCAsvdCeQjX_S5CnILc-63" value="总控会话客户端" style="shape=note;strokeWidth=2;fontSize=14;size=20;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontColor=#666600;" vertex="1" parent="1">
+          <mxGeometry x="1840" y="426" width="210" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="nuCAsvdCeQjX_S5CnILc-64" value="跨节点通信" style="shape=note;strokeWidth=2;fontSize=14;size=20;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontColor=#666600;" vertex="1" parent="1">
+          <mxGeometry x="1840" y="516" width="243" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="nuCAsvdCeQjX_S5CnILc-70" value="IPC" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1437" y="530" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-08-04T12:28:46.138Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" etag="pu6rIU7RIeBpHDb5aDzM" version="13.5.9" type="github">
+<mxfile host="app.diagrams.net" modified="2020-08-04T12:31:43.124Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" etag="tTRraxhmr2Tl9fyQ05jO" version="13.5.9" type="github">
   <diagram id="hWo2aQM5unCId87aPsAW" name="Page-1">
     <mxGraphModel dx="2893" dy="1154" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -283,8 +283,8 @@
         <mxCell id="nuCAsvdCeQjX_S5CnILc-16" value="运行时模拟器: Node/Deno/Custom" style="shape=note;strokeWidth=2;fontSize=14;size=20;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontColor=#666600;" parent="1" vertex="1">
           <mxGeometry x="757" y="520" width="243" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="nuCAsvdCeQjX_S5CnILc-17" value="VM 上下文核心库" style="shape=note;strokeWidth=2;fontSize=14;size=20;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontColor=#666600;" parent="1" vertex="1">
-          <mxGeometry x="757" y="610" width="163" height="80" as="geometry" />
+        <mxCell id="nuCAsvdCeQjX_S5CnILc-17" value="VM 上下文核心库,&lt;br&gt;屏蔽虚拟机差异, 给 runtime 提供一致的接口" style="shape=note;strokeWidth=2;fontSize=14;size=20;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontColor=#666600;" parent="1" vertex="1">
+          <mxGeometry x="757" y="610" width="313" height="80" as="geometry" />
         </mxCell>
         <mxCell id="nuCAsvdCeQjX_S5CnILc-18" value="VM 侧和 Overlord 侧交互接口" style="shape=note;strokeWidth=2;fontSize=14;size=20;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontColor=#666600;" parent="1" vertex="1">
           <mxGeometry x="757" y="700" width="223" height="80" as="geometry" />

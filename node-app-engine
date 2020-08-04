@@ -1,9 +1,12 @@
-<mxfile host="app.diagrams.net" modified="2020-08-04T11:56:40.297Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" etag="9gn96oaTPVKQHqKtGfmy" version="13.5.9" type="github">
+<mxfile host="app.diagrams.net" modified="2020-08-04T12:20:43.817Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" etag="M1QDLbsecPUR0Y-mM-1T" version="13.5.9" type="github">
   <diagram id="hWo2aQM5unCId87aPsAW" name="Page-1">
     <mxGraphModel dx="2893" dy="1105" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="SZrhwDRF8wLUikrI-Z96-35" value="" style="rounded=1;arcSize=10;dashed=1;fillColor=none;gradientColor=none;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1230" y="440" width="350" height="200" as="geometry" />
+        </mxCell>
         <mxCell id="nuCAsvdCeQjX_S5CnILc-9" value="" style="rounded=1;arcSize=10;dashed=0;fillColor=none;gradientColor=none;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="109" y="250" width="610" height="730" as="geometry" />
         </mxCell>
@@ -103,7 +106,7 @@
         <mxCell id="qtUmrKIEz0Q3SkttmeV8-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.222;entryY=0.067;entryDx=0;entryDy=0;startArrow=classic;startFill=1;endArrow=none;endFill=0;entryPerimeter=0;" parent="1" source="qtUmrKIEz0Q3SkttmeV8-13" target="qtUmrKIEz0Q3SkttmeV8-25" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="qtUmrKIEz0Q3SkttmeV8-13" value="sub controller" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="qtUmrKIEz0Q3SkttmeV8-13" value="HouseKeeper" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-373.5" y="835" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="qtUmrKIEz0Q3SkttmeV8-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;startArrow=classic;startFill=1;" parent="1" edge="1">
@@ -315,7 +318,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="SZrhwDRF8wLUikrI-Z96-1" value="sub controller" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="SZrhwDRF8wLUikrI-Z96-1" value="HouseKeeper" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="-483.5" y="1430" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="SZrhwDRF8wLUikrI-Z96-7" value="远程通信" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -377,6 +380,27 @@
         </mxCell>
         <mxCell id="SZrhwDRF8wLUikrI-Z96-26" value="节点通用层" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="360" y="886" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SZrhwDRF8wLUikrI-Z96-27" value="API Server" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1270" y="360" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SZrhwDRF8wLUikrI-Z96-28" value="App 管理" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1270" y="460" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SZrhwDRF8wLUikrI-Z96-29" value="Host 管理" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1420" y="460" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SZrhwDRF8wLUikrI-Z96-30" value="Instance 管理" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1270" y="556" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SZrhwDRF8wLUikrI-Z96-31" value="Node 管理" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1420" y="556" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SZrhwDRF8wLUikrI-Z96-32" value="Housekeeper&lt;br&gt;通信" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1420" y="360" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SZrhwDRF8wLUikrI-Z96-37" value="核心事务" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="1377.5" y="530" width="55" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

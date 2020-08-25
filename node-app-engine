@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-08-25T13:27:21.978Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.135 Safari/537.36" etag="UOQAHx6BUGFncYG-ebQn" version="13.5.9" type="github">
+<mxfile host="app.diagrams.net" modified="2020-08-25T13:29:16.507Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.135 Safari/537.36" etag="5Z0uht_--P9paZCnoCFZ" version="13.5.9" type="github">
   <diagram id="hWo2aQM5unCId87aPsAW" name="Page-1">
     <mxGraphModel dx="1479" dy="423" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1748,10 +1748,10 @@
           <mxGeometry x="3440" y="2710" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="BSPAapr6MbFpmU9OpVWv-3" value="Host" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#647687;strokeColor=#314354;fontColor=#ffffff;" vertex="1" parent="1">
-          <mxGeometry x="3440" y="2829" width="380" height="60" as="geometry" />
+          <mxGeometry x="3440" y="2930" width="380" height="60" as="geometry" />
         </mxCell>
         <mxCell id="BSPAapr6MbFpmU9OpVWv-4" value="NodeController" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#a0522d;strokeColor=#6D1F00;fontColor=#ffffff;" vertex="1" parent="1">
-          <mxGeometry x="3440" y="2900" width="380" height="60" as="geometry" />
+          <mxGeometry x="3440" y="3001" width="380" height="60" as="geometry" />
         </mxCell>
         <mxCell id="BSPAapr6MbFpmU9OpVWv-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;startArrow=classic;startFill=1;" edge="1" parent="1" source="BSPAapr6MbFpmU9OpVWv-5" target="BSPAapr6MbFpmU9OpVWv-3">
           <mxGeometry relative="1" as="geometry" />
@@ -1764,6 +1764,9 @@
         </mxCell>
         <mxCell id="BSPAapr6MbFpmU9OpVWv-6" value="Rest Server" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#76608a;strokeColor=#432D57;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="3700" y="2710" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BSPAapr6MbFpmU9OpVWv-10" value="Command Handles Implementation" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="3440" y="2810" width="380" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

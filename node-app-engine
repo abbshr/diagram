@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-08-25T13:29:35.488Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.135 Safari/537.36" etag="Be7yR6b8fpJutnlYdlsL" version="13.5.9" type="github">
+<mxfile host="app.diagrams.net" modified="2020-08-25T13:30:43.346Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.135 Safari/537.36" etag="u0NO8AUp9JVKOXKzYb_H" version="13.5.9" type="github">
   <diagram id="hWo2aQM5unCId87aPsAW" name="Page-1">
-    <mxGraphModel dx="1479" dy="423" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1940" dy="722" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1756,7 +1756,7 @@
         <mxCell id="BSPAapr6MbFpmU9OpVWv-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;startArrow=classic;startFill=1;" edge="1" parent="1" source="BSPAapr6MbFpmU9OpVWv-5" target="BSPAapr6MbFpmU9OpVWv-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="BSPAapr6MbFpmU9OpVWv-5" value="IPC Server" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#6d8764;strokeColor=#3A5431;fontColor=#ffffff;" vertex="1" parent="1">
+        <mxCell id="BSPAapr6MbFpmU9OpVWv-5" value="IPC Server" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e3c800;strokeColor=#B09500;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="3570" y="2710" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="BSPAapr6MbFpmU9OpVWv-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.842;entryY=0.025;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="BSPAapr6MbFpmU9OpVWv-6" target="BSPAapr6MbFpmU9OpVWv-3">

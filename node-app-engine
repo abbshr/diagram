@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-10-12T06:44:55.869Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="uJSvQYU5AKntBx7eBX4h" version="13.7.9" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-12T06:47:52.091Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="ntQlzklSuFgrGbglopJG" version="13.7.9" type="github">
   <diagram id="hWo2aQM5unCId87aPsAW" name="Page-1">
     <mxGraphModel dx="1940" dy="722" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1975,7 +1975,7 @@
         <mxCell id="BKzuziR78yNgBky7ovLD-16" value="域名 http 访问: API + 运维接口" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="5276.5" y="60" width="199" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="BKzuziR78yNgBky7ovLD-17" value="域名 tcp 访问: 和分控建立连接" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="BKzuziR78yNgBky7ovLD-17" value="域名 tcp 访问: 和代理建立连接" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="5210" y="250" width="90" height="20" as="geometry" />
         </mxCell>
         <mxCell id="BKzuziR78yNgBky7ovLD-18" value="ip:port tcp 访问: 和宿主建立连接" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">

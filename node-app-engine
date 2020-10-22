@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-10-22T03:56:02.996Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.80 Safari/537.36" etag="Gr9LBb7aDI8k6JbcRn2B" version="13.8.0" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-22T03:56:28.619Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.80 Safari/537.36" etag="3NZhYQnTiZxohjNNYCy6" version="13.8.0" type="github">
   <diagram id="hWo2aQM5unCId87aPsAW" name="Page-1">
     <mxGraphModel dx="1773" dy="614" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -2058,7 +2058,7 @@
         <mxCell id="PW_m6OI4EZzmIv4Y1xKr-27" value="注册代理集群" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="6410" y="1130" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="PW_m6OI4EZzmIv4Y1xKr-28" value="" style="endArrow=classic;startArrow=classic;html=1;" edge="1" parent="1">
+        <mxCell id="PW_m6OI4EZzmIv4Y1xKr-28" value="" style="endArrow=classic;startArrow=none;html=1;startFill=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="6450" y="1270" as="sourcePoint" />
             <mxPoint x="6449.5" y="1224" as="targetPoint" />

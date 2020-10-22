@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-10-22T03:45:53.693Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.80 Safari/537.36" etag="bmXCWbZsNViOp_aS4CQO" version="13.8.0" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-22T03:51:16.396Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.80 Safari/537.36" etag="JtJkPxoflHOLY-H7mLDK" version="13.8.0" type="github">
   <diagram id="hWo2aQM5unCId87aPsAW" name="Page-1">
     <mxGraphModel dx="1773" dy="614" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -2025,15 +2025,15 @@
             <mxPoint x="6300" y="930" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="PW_m6OI4EZzmIv4Y1xKr-19" value="数据平面 (东西向流量)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="6760" y="1210" width="150" height="20" as="geometry" />
+        <mxCell id="PW_m6OI4EZzmIv4Y1xKr-19" value="数据平面 (东西向流量)" style="text;html=1;strokeColor=#006EAF;fillColor=#1ba1e2;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="6780" y="1410" width="150" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="PW_m6OI4EZzmIv4Y1xKr-20" value="控制平面 (南北向流量)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="6150" y="966" width="134" height="20" as="geometry" />
+        <mxCell id="PW_m6OI4EZzmIv4Y1xKr-20" value="控制平面 (南北向流量)" style="text;html=1;strokeColor=#2D7600;fillColor=#60a917;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="6313" y="956" width="134" height="20" as="geometry" />
         </mxCell>
         <mxCell id="PW_m6OI4EZzmIv4Y1xKr-21" value="" style="endArrow=classic;startArrow=classic;html=1;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="6549.5" y="1130" as="sourcePoint" />
+            <mxPoint x="6549" y="1270" as="sourcePoint" />
             <mxPoint x="6549.5" y="1040" as="targetPoint" />
           </mxGeometry>
         </mxCell>
@@ -2041,16 +2041,16 @@
           <mxGeometry x="6510" y="941.5" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="PW_m6OI4EZzmIv4Y1xKr-23" value="Gateway" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="6390" y="1374" width="80" height="80" as="geometry" />
+          <mxGeometry x="6367" y="1374" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="PW_m6OI4EZzmIv4Y1xKr-24" value="Container" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="6510" y="1374" width="80" height="80" as="geometry" />
+        <mxCell id="PW_m6OI4EZzmIv4Y1xKr-24" value="Router" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="6506" y="1374" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="PW_m6OI4EZzmIv4Y1xKr-25" value="工作负载集群" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
           <mxGeometry x="6500" y="1294" width="90" height="20" as="geometry" />
         </mxCell>
         <mxCell id="PW_m6OI4EZzmIv4Y1xKr-26" value="Agent" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="6630" y="1374" width="80" height="80" as="geometry" />
+          <mxGeometry x="6630" y="1260" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="PW_m6OI4EZzmIv4Y1xKr-27" value="注册代理集群" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="6410" y="1130" width="80" height="80" as="geometry" />
@@ -2059,6 +2059,39 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="6450" y="1270" as="sourcePoint" />
             <mxPoint x="6449.5" y="1224" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PW_m6OI4EZzmIv4Y1xKr-29" value="" style="endArrow=classic;startArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="6670" y="1240" as="sourcePoint" />
+            <mxPoint x="6670" y="1150" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PW_m6OI4EZzmIv4Y1xKr-31" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="6224" y="1414" as="sourcePoint" />
+            <mxPoint x="6364" y="1414" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PW_m6OI4EZzmIv4Y1xKr-32" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="6451" y="1414" as="sourcePoint" />
+            <mxPoint x="6501" y="1414" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PW_m6OI4EZzmIv4Y1xKr-34" value="Container" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="6650" y="1374" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="PW_m6OI4EZzmIv4Y1xKr-35" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="6592" y="1413.5" as="sourcePoint" />
+            <mxPoint x="6642" y="1413.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PW_m6OI4EZzmIv4Y1xKr-37" value="" style="endArrow=classic;startArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="6449.5" y="1116" as="sourcePoint" />
+            <mxPoint x="6450" y="1040" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>

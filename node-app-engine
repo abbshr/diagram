@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-10-22T03:59:37.827Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.80 Safari/537.36" etag="gQeC3JQdnH01zCRh5--O" version="13.8.0" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-22T04:00:32.820Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.80 Safari/537.36" etag="SrGO-ZUr_tNPQ2k5Gmcg" version="13.8.0" type="github">
   <diagram id="hWo2aQM5unCId87aPsAW" name="Page-1">
     <mxGraphModel dx="1940" dy="722" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -8,7 +8,7 @@
           <mxGeometry x="6770" y="1285" width="270" height="135" as="geometry" />
         </mxCell>
         <mxCell id="PW_m6OI4EZzmIv4Y1xKr-43" value="" style="rounded=1;arcSize=10;dashed=0;fillColor=none;gradientColor=none;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="6416" y="930" width="424" height="111.5" as="geometry" />
+          <mxGeometry x="6350" y="930" width="680" height="111.5" as="geometry" />
         </mxCell>
         <mxCell id="_HmK5tQ36fKIEWOmsYiI-223" value="" style="rounded=1;arcSize=10;dashed=0;fillColor=none;gradientColor=none;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="3675" y="666" width="460" height="140" as="geometry" />
@@ -2032,7 +2032,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="PW_m6OI4EZzmIv4Y1xKr-19" value="数据平面 (东西向流量)" style="text;html=1;strokeColor=#006EAF;fillColor=#1ba1e2;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#ffffff;" vertex="1" parent="1">
-          <mxGeometry x="6920" y="1210" width="150" height="20" as="geometry" />
+          <mxGeometry x="6775" y="1450" width="150" height="20" as="geometry" />
         </mxCell>
         <mxCell id="PW_m6OI4EZzmIv4Y1xKr-20" value="控制平面 (南北向流量)" style="text;html=1;strokeColor=#2D7600;fillColor=#60a917;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="6150" y="981" width="134" height="20" as="geometry" />
@@ -2057,15 +2057,6 @@
         </mxCell>
         <mxCell id="PW_m6OI4EZzmIv4Y1xKr-26" value="辅助节点" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="6810" y="1312.5" width="80" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="PW_m6OI4EZzmIv4Y1xKr-27" value="注册代理集群" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="6410" y="1130" width="80" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="PW_m6OI4EZzmIv4Y1xKr-28" value="" style="endArrow=classic;startArrow=none;html=1;startFill=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="6450" y="1270" as="sourcePoint" />
-            <mxPoint x="6449.5" y="1224" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="PW_m6OI4EZzmIv4Y1xKr-29" value="" style="endArrow=classic;startArrow=classic;html=1;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -2094,12 +2085,6 @@
             <mxPoint x="6642" y="1413.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="PW_m6OI4EZzmIv4Y1xKr-37" value="" style="endArrow=classic;startArrow=classic;html=1;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="6449.5" y="1124" as="sourcePoint" />
-            <mxPoint x="6450" y="1048" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="PW_m6OI4EZzmIv4Y1xKr-41" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.emr_cluster;fillColor=#F58534;gradientColor=none;" vertex="1" parent="1">
           <mxGeometry x="6107.25" y="1371" width="85.5" height="86" as="geometry" />
         </mxCell>
@@ -2114,6 +2099,21 @@
         </mxCell>
         <mxCell id="PW_m6OI4EZzmIv4Y1xKr-48" value="宿主内常驻服务" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
           <mxGeometry x="6855" y="1290" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="PW_m6OI4EZzmIv4Y1xKr-49" value="注册代理集群" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="6855" y="1131" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="PW_m6OI4EZzmIv4Y1xKr-50" value="" style="endArrow=classic;startArrow=none;html=1;startFill=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="6895" y="1271" as="sourcePoint" />
+            <mxPoint x="6894.5" y="1225" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PW_m6OI4EZzmIv4Y1xKr-51" value="" style="endArrow=classic;startArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="6894.5" y="1125" as="sourcePoint" />
+            <mxPoint x="6895" y="1049" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>

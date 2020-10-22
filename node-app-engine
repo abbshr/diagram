@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-10-22T04:01:00.550Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.80 Safari/537.36" etag="yMqMcybOZhoKvlm_U0hu" version="13.8.0" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-22T04:04:34.983Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.80 Safari/537.36" etag="v5vEmaAm_7kcPx-nxtRg" version="13.8.0" type="github">
   <diagram id="hWo2aQM5unCId87aPsAW" name="Page-1">
     <mxGraphModel dx="1940" dy="722" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -2113,6 +2113,18 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="6959.5" y="1125" as="sourcePoint" />
             <mxPoint x="6960" y="1049" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PW_m6OI4EZzmIv4Y1xKr-52" value="运维控制台" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="6585" y="710" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="PW_m6OI4EZzmIv4Y1xKr-53" value="产品服务" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="6715" y="710" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="PW_m6OI4EZzmIv4Y1xKr-54" value="" style="endArrow=classic;startArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="6689.41" y="896.5" as="sourcePoint" />
+            <mxPoint x="6689.41" y="806.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>

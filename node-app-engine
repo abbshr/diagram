@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-10-23T08:10:25.616Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.80 Safari/537.36" etag="TuJdIiAbXOPV0l5ZtYsf" version="13.8.1" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-23T08:13:01.928Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.80 Safari/537.36" etag="kG3q3DVl4V8NDepxe_oy" version="13.8.1" type="github">
   <diagram id="hWo2aQM5unCId87aPsAW" name="Page-1">
     <mxGraphModel dx="3016" dy="853" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -2017,19 +2017,19 @@
           <mxGeometry x="-930.12" y="4018.7999999999993" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="LpLbnfJhshCNVj1fSRHG-263" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.queue;fillColor=#D9A741;gradientColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-1199.37" y="3778" width="73.5" height="48" as="geometry" />
+          <mxGeometry x="-1197.87" y="3769.9" width="73.5" height="48" as="geometry" />
         </mxCell>
         <mxCell id="LpLbnfJhshCNVj1fSRHG-264" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.queue;fillColor=#D9A741;gradientColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-943.4399999999999" y="3778" width="73.5" height="48" as="geometry" />
+          <mxGeometry x="-942.8699999999999" y="3770" width="73.5" height="48" as="geometry" />
         </mxCell>
         <mxCell id="LpLbnfJhshCNVj1fSRHG-265" value="nsq 生产" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
-          <mxGeometry x="-1490" y="3817.9" width="60" height="20" as="geometry" />
+          <mxGeometry x="-1524.5" y="3783.9" width="60" height="20" as="geometry" />
         </mxCell>
         <mxCell id="LpLbnfJhshCNVj1fSRHG-266" value="nsq 预发" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
-          <mxGeometry x="-1231.37" y="3826" width="60" height="20" as="geometry" />
+          <mxGeometry x="-1260" y="3783.9" width="60" height="20" as="geometry" />
         </mxCell>
         <mxCell id="LpLbnfJhshCNVj1fSRHG-267" value="nsq&amp;nbsp; 测试" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
-          <mxGeometry x="-975" y="3826" width="70" height="20" as="geometry" />
+          <mxGeometry x="-1015.4" y="3784" width="70" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

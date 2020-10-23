@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-10-23T05:50:56.541Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.80 Safari/537.36" etag="-B4Jc5rFHDGS8UgiuPOh" version="13.8.1" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-23T05:52:39.187Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.80 Safari/537.36" etag="zpUJCr1Dq5HA-HHyhxdQ" version="13.8.1" type="github">
   <diagram id="hWo2aQM5unCId87aPsAW" name="Page-1">
     <mxGraphModel dx="3005" dy="877" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1569,11 +1569,11 @@
             <mxPoint x="-1440" y="1439.29" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="LpLbnfJhshCNVj1fSRHG-69" value="Command 长连接" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
-          <mxGeometry x="-1530" y="1400" width="110" height="20" as="geometry" />
+        <mxCell id="LpLbnfJhshCNVj1fSRHG-69" value="长连接" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="-1500" y="1400" width="50" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="LpLbnfJhshCNVj1fSRHG-70" value="HTTP 短连接" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
-          <mxGeometry x="-1520" y="1450" width="90" height="20" as="geometry" />
+        <mxCell id="LpLbnfJhshCNVj1fSRHG-70" value="短连接" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="-1500" y="1450" width="50" height="20" as="geometry" />
         </mxCell>
         <mxCell id="LpLbnfJhshCNVj1fSRHG-125" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=1;entryDx=0;entryDy=0;strokeWidth=1;" edge="1" parent="1" source="LpLbnfJhshCNVj1fSRHG-72" target="LpLbnfJhshCNVj1fSRHG-82">
           <mxGeometry relative="1" as="geometry" />

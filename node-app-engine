@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-10-23T05:17:57.543Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.80 Safari/537.36" etag="YjhcwFf2qO4ggAaegm8G" version="13.8.1" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-23T05:24:11.951Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.80 Safari/537.36" etag="mfVBy49RApvcXi0Hredu" version="13.8.1" type="github">
   <diagram id="hWo2aQM5unCId87aPsAW" name="Page-1">
     <mxGraphModel dx="3005" dy="877" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -23,10 +23,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="8eAlAAJlnXRMdAybccaV-4" value="" style="rounded=1;arcSize=10;dashed=0;fillColor=none;gradientColor=none;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="-1220" y="1320" width="200" height="140" as="geometry" />
+          <mxGeometry x="-1260" y="1325" width="200" height="140" as="geometry" />
         </mxCell>
         <mxCell id="8eAlAAJlnXRMdAybccaV-7" value="" style="rounded=1;arcSize=10;dashed=0;fillColor=none;gradientColor=none;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="-1610" y="1600" width="300" height="140" as="geometry" />
+          <mxGeometry x="-1650" y="1605" width="300" height="140" as="geometry" />
         </mxCell>
         <mxCell id="nuCAsvdCeQjX_S5CnILc-9" value="" style="rounded=1;arcSize=10;dashed=0;fillColor=none;gradientColor=none;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="356" y="220" width="610" height="790" as="geometry" />
@@ -208,10 +208,10 @@
           <mxGeometry x="522" y="931" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="8eAlAAJlnXRMdAybccaV-6" value="管理区网段" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
-          <mxGeometry x="-1160" y="1320" width="80" height="20" as="geometry" />
+          <mxGeometry x="-1200" y="1325" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="8eAlAAJlnXRMdAybccaV-8" value="生产网段" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
-          <mxGeometry x="-1490" y="1604" width="60" height="20" as="geometry" />
+          <mxGeometry x="-1530" y="1609" width="60" height="20" as="geometry" />
         </mxCell>
         <mxCell id="8eAlAAJlnXRMdAybccaV-39" value="控制中心 (总控)" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" parent="1" vertex="1">
           <mxGeometry x="2234" y="2518" width="162" height="870" as="geometry" />
@@ -1485,28 +1485,28 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="LpLbnfJhshCNVj1fSRHG-32" value="" style="pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.servers.physical_host_farm;fillColor=#2072B8;" vertex="1" parent="1">
-          <mxGeometry x="-1430" y="1633.8" width="96.5" height="70" as="geometry" />
+          <mxGeometry x="-1470" y="1638.8" width="96.5" height="70" as="geometry" />
         </mxCell>
         <mxCell id="LpLbnfJhshCNVj1fSRHG-33" value="" style="pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#4495D1;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam.2d.proxy_appliance;" vertex="1" parent="1">
-          <mxGeometry x="-1588.3" y="1637" width="63.8" height="63.8" as="geometry" />
+          <mxGeometry x="-1628.3" y="1642" width="63.8" height="63.8" as="geometry" />
         </mxCell>
         <mxCell id="LpLbnfJhshCNVj1fSRHG-35" value="注册代理" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
-          <mxGeometry x="-1586.4" y="1703.8" width="60" height="20" as="geometry" />
+          <mxGeometry x="-1626.4" y="1708.8" width="60" height="20" as="geometry" />
         </mxCell>
         <mxCell id="LpLbnfJhshCNVj1fSRHG-36" value="hosts" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
-          <mxGeometry x="-1401.75" y="1703.8" width="40" height="20" as="geometry" />
+          <mxGeometry x="-1441.75" y="1708.8" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="LpLbnfJhshCNVj1fSRHG-39" value="" style="html=1;aspect=fixed;strokeColor=none;shadow=0;align=center;verticalAlign=top;fillColor=#3B8DF1;shape=mxgraph.gcp2.replication_controller_3" vertex="1" parent="1">
-          <mxGeometry x="-1170" y="1357" width="100" height="66" as="geometry" />
+          <mxGeometry x="-1210" y="1362" width="100" height="66" as="geometry" />
         </mxCell>
         <mxCell id="LpLbnfJhshCNVj1fSRHG-40" value="控制中枢" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
-          <mxGeometry x="-1150" y="1423" width="60" height="20" as="geometry" />
+          <mxGeometry x="-1190" y="1428" width="60" height="20" as="geometry" />
         </mxCell>
         <mxCell id="LpLbnfJhshCNVj1fSRHG-41" value="" style="rounded=1;arcSize=10;dashed=0;fillColor=none;gradientColor=none;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="-1267.25" y="1598.8" width="300" height="140" as="geometry" />
+          <mxGeometry x="-1307.25" y="1603.8" width="300" height="140" as="geometry" />
         </mxCell>
         <mxCell id="LpLbnfJhshCNVj1fSRHG-42" value="预发网段" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
-          <mxGeometry x="-1147.25" y="1602.8" width="60" height="20" as="geometry" />
+          <mxGeometry x="-1187.25" y="1607.8" width="60" height="20" as="geometry" />
         </mxCell>
         <mxCell id="LpLbnfJhshCNVj1fSRHG-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" edge="1" parent="1" source="LpLbnfJhshCNVj1fSRHG-45" target="LpLbnfJhshCNVj1fSRHG-46">
           <mxGeometry relative="1" as="geometry" />
@@ -1517,22 +1517,22 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="LpLbnfJhshCNVj1fSRHG-45" value="" style="pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.servers.physical_host_farm;fillColor=#2072B8;" vertex="1" parent="1">
-          <mxGeometry x="-1087.25" y="1632.6" width="96.5" height="70" as="geometry" />
+          <mxGeometry x="-1127.25" y="1637.6" width="96.5" height="70" as="geometry" />
         </mxCell>
         <mxCell id="LpLbnfJhshCNVj1fSRHG-46" value="" style="pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#4495D1;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam.2d.proxy_appliance;" vertex="1" parent="1">
-          <mxGeometry x="-1245.55" y="1635.8" width="63.8" height="63.8" as="geometry" />
+          <mxGeometry x="-1285.55" y="1640.8" width="63.8" height="63.8" as="geometry" />
         </mxCell>
         <mxCell id="LpLbnfJhshCNVj1fSRHG-47" value="注册代理" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
-          <mxGeometry x="-1243.65" y="1702.6" width="60" height="20" as="geometry" />
+          <mxGeometry x="-1283.65" y="1707.6" width="60" height="20" as="geometry" />
         </mxCell>
         <mxCell id="LpLbnfJhshCNVj1fSRHG-48" value="hosts" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
-          <mxGeometry x="-1059" y="1702.6" width="40" height="20" as="geometry" />
+          <mxGeometry x="-1099" y="1707.6" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="LpLbnfJhshCNVj1fSRHG-49" value="" style="rounded=1;arcSize=10;dashed=0;fillColor=none;gradientColor=none;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="-922.25" y="1598.8" width="300" height="140" as="geometry" />
+          <mxGeometry x="-962.25" y="1603.8" width="300" height="140" as="geometry" />
         </mxCell>
         <mxCell id="LpLbnfJhshCNVj1fSRHG-50" value="测试网段" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
-          <mxGeometry x="-802.25" y="1602.8" width="60" height="20" as="geometry" />
+          <mxGeometry x="-842.25" y="1607.8" width="60" height="20" as="geometry" />
         </mxCell>
         <mxCell id="LpLbnfJhshCNVj1fSRHG-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" edge="1" parent="1" source="LpLbnfJhshCNVj1fSRHG-53" target="LpLbnfJhshCNVj1fSRHG-54">
           <mxGeometry relative="1" as="geometry" />
@@ -1543,16 +1543,16 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="LpLbnfJhshCNVj1fSRHG-53" value="" style="pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.servers.physical_host_farm;fillColor=#2072B8;" vertex="1" parent="1">
-          <mxGeometry x="-742.25" y="1632.6" width="96.5" height="70" as="geometry" />
+          <mxGeometry x="-782.25" y="1637.6" width="96.5" height="70" as="geometry" />
         </mxCell>
         <mxCell id="LpLbnfJhshCNVj1fSRHG-54" value="" style="pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#4495D1;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam.2d.proxy_appliance;" vertex="1" parent="1">
-          <mxGeometry x="-900.55" y="1635.8" width="63.8" height="63.8" as="geometry" />
+          <mxGeometry x="-940.55" y="1640.8" width="63.8" height="63.8" as="geometry" />
         </mxCell>
         <mxCell id="LpLbnfJhshCNVj1fSRHG-55" value="注册代理" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
-          <mxGeometry x="-898.6500000000001" y="1702.6" width="60" height="20" as="geometry" />
+          <mxGeometry x="-938.6500000000001" y="1707.6" width="60" height="20" as="geometry" />
         </mxCell>
         <mxCell id="LpLbnfJhshCNVj1fSRHG-56" value="hosts" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
-          <mxGeometry x="-714" y="1702.6" width="40" height="20" as="geometry" />
+          <mxGeometry x="-754" y="1707.6" width="40" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

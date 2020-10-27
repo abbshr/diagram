@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-10-27T09:11:02.861Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" etag="jcpQ94oTvGkQlXYb4ZgT" version="13.8.1" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-27T09:18:38.365Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" etag="t1xeT-80Y0C3kq2_y2cb" version="13.8.1" type="github">
   <diagram id="hWo2aQM5unCId87aPsAW" name="Page-1">
     <mxGraphModel dx="3079" dy="796" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -216,7 +216,7 @@
         <mxCell id="8eAlAAJlnXRMdAybccaV-8" value="生产网段" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
           <mxGeometry x="-1530" y="2137.8" width="60" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="8eAlAAJlnXRMdAybccaV-39" value="控制中心 (总控)" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" parent="1" vertex="1">
+        <mxCell id="8eAlAAJlnXRMdAybccaV-39" value="控制中心集群" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" parent="1" vertex="1">
           <mxGeometry x="2874" y="2500" width="162" height="870" as="geometry" />
         </mxCell>
         <mxCell id="JrEv5iLmm0svc2ZZoYs5-16" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="8eAlAAJlnXRMdAybccaV-39">
@@ -228,6 +228,15 @@
             <mxPoint x="176" y="262" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="JrEv5iLmm0svc2ZZoYs5-26" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="8eAlAAJlnXRMdAybccaV-39">
+          <mxGeometry x="76" y="350" width="10" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="JrEv5iLmm0svc2ZZoYs5-27" value="" style="endArrow=classic;html=1;" edge="1" parent="8eAlAAJlnXRMdAybccaV-39" target="8eAlAAJlnXRMdAybccaV-42">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="86" y="430" as="sourcePoint" />
+            <mxPoint x="166" y="430" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="8eAlAAJlnXRMdAybccaV-42" value="宿主侧 (HouseKeeper)" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" parent="1" vertex="1">
           <mxGeometry x="3539" y="2500" width="162" height="870" as="geometry" />
         </mxCell>
@@ -235,6 +244,18 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="86" y="75" as="sourcePoint" />
             <mxPoint x="136" y="75" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JrEv5iLmm0svc2ZZoYs5-23" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="8eAlAAJlnXRMdAybccaV-42">
+          <mxGeometry x="76" y="267" width="10" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="JrEv5iLmm0svc2ZZoYs5-29" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="8eAlAAJlnXRMdAybccaV-42">
+          <mxGeometry x="76" y="430" width="10" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="JrEv5iLmm0svc2ZZoYs5-30" value="ok" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;" edge="1" parent="8eAlAAJlnXRMdAybccaV-42" target="8eAlAAJlnXRMdAybccaV-39">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="81" y="510" as="sourcePoint" />
+            <mxPoint x="1" y="510" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="8eAlAAJlnXRMdAybccaV-56" value="对应环境的 NSQ 集群" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" parent="1" vertex="1">
@@ -1892,7 +1913,7 @@
         <mxCell id="LpLbnfJhshCNVj1fSRHG-267" value="nsq&amp;nbsp; 测试" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
           <mxGeometry x="-1015.4" y="3784" width="70" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="JrEv5iLmm0svc2ZZoYs5-1" value="宿主侧 (Register 节点)" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" vertex="1" parent="1">
+        <mxCell id="JrEv5iLmm0svc2ZZoYs5-1" value="宿主侧 (Register)" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="3800" y="2500" width="162" height="870" as="geometry" />
         </mxCell>
         <mxCell id="JrEv5iLmm0svc2ZZoYs5-2" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="JrEv5iLmm0svc2ZZoYs5-1">
@@ -1920,13 +1941,22 @@
           <mxGeometry x="3040" y="2660" width="160" height="20" as="geometry" />
         </mxCell>
         <mxCell id="JrEv5iLmm0svc2ZZoYs5-18" value="请求建立会话" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
-          <mxGeometry x="3075" y="2738.8" width="90" height="20" as="geometry" />
+          <mxGeometry x="3170" y="2736.8" width="90" height="20" as="geometry" />
         </mxCell>
         <mxCell id="JrEv5iLmm0svc2ZZoYs5-22" value="ok" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;" edge="1" parent="1" target="8eAlAAJlnXRMdAybccaV-42">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="3875" y="2700" as="sourcePoint" />
             <mxPoint x="3795" y="2700" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="JrEv5iLmm0svc2ZZoYs5-25" value="会话握手 ok" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;" edge="1" parent="1" target="8eAlAAJlnXRMdAybccaV-39">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="3619" y="2850" as="sourcePoint" />
+            <mxPoint x="3539" y="2850" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JrEv5iLmm0svc2ZZoYs5-28" value="动态协商心跳周期" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="3170" y="2903" width="110" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

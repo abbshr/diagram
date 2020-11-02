@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-11-02T11:54:17.164Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" etag="bP3jxS-vznTpOpcrU0pM" version="13.8.3" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-02T11:55:28.405Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" etag="WwZEYcemy6xA4KXUME_f" version="13.8.3" type="github">
   <diagram id="hWo2aQM5unCId87aPsAW" name="Page-1">
     <mxGraphModel dx="2767" dy="722" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1709,17 +1709,17 @@
         <mxCell id="JrEv5iLmm0svc2ZZoYs5-28" value="动态协商心跳周期" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
           <mxGeometry x="2266" y="1757" width="110" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="lpCYHz5oAToYtXYNB49b-1" value="产品平台 (Cube)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-340" y="3740" width="224.5" height="90" as="geometry" />
+        <mxCell id="lpCYHz5oAToYtXYNB49b-1" value="产品平台 (Cube)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#a0522d;strokeColor=#6D1F00;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="-619" y="3653" width="229" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="lpCYHz5oAToYtXYNB49b-2" value="运维平台 (Dash)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-90" y="3740" width="161.75" height="90" as="geometry" />
+        <mxCell id="lpCYHz5oAToYtXYNB49b-2" value="运维平台 (Dash)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#76608a;strokeColor=#432D57;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="-370" y="3653" width="162.75" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="lpCYHz5oAToYtXYNB49b-4" value="底层基础 (App Engine)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-200" y="3853.8" width="270" height="96.2" as="geometry" />
+        <mxCell id="lpCYHz5oAToYtXYNB49b-4" value="底层基础 (App Engine)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#6d8764;strokeColor=#3A5431;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="-479" y="3766.8" width="270" height="96.2" as="geometry" />
         </mxCell>
-        <mxCell id="lpCYHz5oAToYtXYNB49b-5" value="研发框架" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-340" y="3853.8" width="120" height="96.2" as="geometry" />
+        <mxCell id="lpCYHz5oAToYtXYNB49b-5" value="研发框架" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#647687;strokeColor=#314354;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="-619" y="3766.8" width="120" height="96.2" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

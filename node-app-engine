@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-11-05T06:42:26.840Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.183 Safari/537.36" etag="dCPl8vTz8JZ0t66MaFCK" version="13.8.8" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-05T06:45:17.506Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.183 Safari/537.36" etag="I5zLv6Qm3ONKZr7VIoE0" version="13.8.8" type="github">
   <diagram id="hWo2aQM5unCId87aPsAW" name="Page-1">
     <mxGraphModel dx="2600" dy="614" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1815,6 +1815,24 @@
         </mxCell>
         <mxCell id="udswP32hKkQxpqQSNKh3-22" value="函数/API 模式运行" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
           <mxGeometry x="-421" y="4290" width="110" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="udswP32hKkQxpqQSNKh3-23" value="2020.11~12" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-709.5" y="4013.8" width="71" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="udswP32hKkQxpqQSNKh3-24" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-736" y="4055" as="sourcePoint" />
+            <mxPoint x="-276" y="4055" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="udswP32hKkQxpqQSNKh3-25" value="节奏同步" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="-792.25" y="4015" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="udswP32hKkQxpqQSNKh3-26" value="2021.01" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="-549" y="4013.8" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="udswP32hKkQxpqQSNKh3-27" value="2020.06" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="-396" y="4013.8" width="60" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

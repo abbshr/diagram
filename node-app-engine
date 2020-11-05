@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-11-05T06:41:11.461Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.183 Safari/537.36" etag="ZZRUxoiSL8zKjziI-YZW" version="13.8.8" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-05T06:42:11.692Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.183 Safari/537.36" etag="I1X697dQalnEDdnXKYnC" version="13.8.8" type="github">
   <diagram id="hWo2aQM5unCId87aPsAW" name="Page-1">
     <mxGraphModel dx="2600" dy="614" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1744,7 +1744,7 @@
         <mxCell id="lpCYHz5oAToYtXYNB49b-11" value="应用引擎运维" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
           <mxGeometry x="-110" y="3730" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="udswP32hKkQxpqQSNKh3-1" value="应用模式&lt;br&gt;(运维托管)" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="udswP32hKkQxpqQSNKh3-1" value="应用运行模式&lt;br&gt;(运维托管)" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="-714" y="4070" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="udswP32hKkQxpqQSNKh3-2" value="" style="shape=flexArrow;endArrow=classic;html=1;" edge="1" parent="1">
@@ -1753,10 +1753,10 @@
             <mxPoint x="-570" y="4109.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="udswP32hKkQxpqQSNKh3-3" value="应用模式&lt;br&gt;(统一托管)" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="udswP32hKkQxpqQSNKh3-3" value="应用运行模式&lt;br&gt;(统一托管)" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="-559" y="4070" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="udswP32hKkQxpqQSNKh3-4" value="应用 + 函数&lt;br&gt;模式" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="udswP32hKkQxpqQSNKh3-4" value="应用运行模式&lt;br&gt;函数运行模式" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="-408.25" y="4070" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="udswP32hKkQxpqQSNKh3-5" value="" style="shape=flexArrow;endArrow=classic;html=1;" edge="1" parent="1">
@@ -1765,7 +1765,7 @@
             <mxPoint x="-420" y="4109.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="udswP32hKkQxpqQSNKh3-6" value="函数模式" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="udswP32hKkQxpqQSNKh3-6" value="函数开发模式" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="-714" y="4200" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="udswP32hKkQxpqQSNKh3-7" value="" style="shape=flexArrow;endArrow=classic;html=1;" edge="1" parent="1">
@@ -1774,10 +1774,10 @@
             <mxPoint x="-570" y="4239.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="udswP32hKkQxpqQSNKh3-8" value="函数模式" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="udswP32hKkQxpqQSNKh3-8" value="函数开发模式" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="-559" y="4200" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="udswP32hKkQxpqQSNKh3-9" value="函数模式" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="udswP32hKkQxpqQSNKh3-9" value="函数开发模式" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="-408.25" y="4200" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="udswP32hKkQxpqQSNKh3-10" value="" style="shape=flexArrow;endArrow=classic;html=1;" edge="1" parent="1">

@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-11-18T07:00:16.104Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="hP-8tzz-QvbU30-M7Tcy" version="13.9.3" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-18T07:02:00.939Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="k9aBrOmGblhjxfoyA9CD" version="13.9.3" type="github">
   <diagram id="hWo2aQM5unCId87aPsAW" name="Page-1">
     <mxGraphModel dx="4085" dy="1358" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1870,7 +1870,7 @@
           <mxGeometry x="1140" y="4155" width="126" height="126" as="geometry" />
         </mxCell>
         <mxCell id="QF2ttI9AA4Tb99doH0x_-15" value="&lt;span style=&quot;font-size: 11px&quot;&gt;Command 下发&lt;/span&gt;&lt;br style=&quot;font-size: 11px&quot;&gt;&lt;br style=&quot;font-size: 11px&quot;&gt;&lt;span style=&quot;font-size: 11px&quot;&gt;通知 Downloader Node 下载对应的 API 源码&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
-          <mxGeometry x="907" y="3924" width="250" height="50" as="geometry" />
+          <mxGeometry x="947" y="3924" width="250" height="50" as="geometry" />
         </mxCell>
         <mxCell id="QF2ttI9AA4Tb99doH0x_-16" value="&lt;span style=&quot;font-size: 11px&quot;&gt;Command 下发&lt;/span&gt;&lt;br style=&quot;font-size: 11px&quot;&gt;&lt;br style=&quot;font-size: 11px&quot;&gt;&lt;span style=&quot;font-size: 11px&quot;&gt;通知 Container Node 加载对应的 API 源码&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
           <mxGeometry x="840" y="4140" width="240" height="50" as="geometry" />
@@ -1880,6 +1880,18 @@
         </mxCell>
         <mxCell id="QF2ttI9AA4Tb99doH0x_-18" value="&lt;span style=&quot;font-size: 11px&quot;&gt;HTTP API 调用&lt;br&gt;&lt;br&gt;准备要更新的 API 信息&lt;br&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
           <mxGeometry x="356" y="4067" width="140" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="QF2ttI9AA4Tb99doH0x_-19" value="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="411.5" y="3984.8" width="29" height="29" as="geometry" />
+        </mxCell>
+        <mxCell id="QF2ttI9AA4Tb99doH0x_-20" value="2" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="698" y="3984.8" width="29" height="29" as="geometry" />
+        </mxCell>
+        <mxCell id="QF2ttI9AA4Tb99doH0x_-21" value="3" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="1020" y="3984.8" width="29" height="29" as="geometry" />
+        </mxCell>
+        <mxCell id="QF2ttI9AA4Tb99doH0x_-22" value="4" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="1020" y="4077.5" width="29" height="29" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

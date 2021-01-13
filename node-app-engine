@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-01-13T15:07:02.714Z" agent="5.0 (Macintosh; Intel Mac OS X 11_1_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="Oyi5M69fLXbccu9ypeo_" version="14.1.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-01-13T15:07:21.738Z" agent="5.0 (Macintosh; Intel Mac OS X 11_1_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="OAlD50iBFSqH99Znv2_L" version="14.1.3" type="github">
   <diagram id="hWo2aQM5unCId87aPsAW" name="Page-1">
     <mxGraphModel dx="2600" dy="614" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -2427,6 +2427,24 @@
         </mxCell>
         <mxCell id="go4afPaxYULsIb3SBgg5-28" value="MetaData" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="3701.5" y="4540" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="go4afPaxYULsIb3SBgg5-29" value="" style="rounded=1;arcSize=10;dashed=0;fillColor=none;gradientColor=none;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="3920" y="4275" width="180" height="355" as="geometry" />
+        </mxCell>
+        <mxCell id="go4afPaxYULsIb3SBgg5-30" value="API Framework" style="dashed=0;html=1;fillColor=#F0F2F5;strokeColor=none;align=center;rounded=1;arcSize=10;fontColor=#596780;fontStyle=1;fontSize=11;shadow=0" vertex="1" parent="1">
+          <mxGeometry x="3940" y="4255" width="139" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="go4afPaxYULsIb3SBgg5-31" value="Router" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3952" y="4295" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="go4afPaxYULsIb3SBgg5-32" value="Adapter" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3952" y="4455" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="go4afPaxYULsIb3SBgg5-33" value="API Manager" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3952" y="4375" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="go4afPaxYULsIb3SBgg5-34" value="MetaData" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3952.5" y="4540" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

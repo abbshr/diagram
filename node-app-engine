@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-02-20T10:01:17.398Z" agent="5.0 (Macintosh; Intel Mac OS X 11_1_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36" etag="VWjIkdMw91JDrpjJ2aZs" version="14.2.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-02-20T10:01:36.767Z" agent="5.0 (Macintosh; Intel Mac OS X 11_1_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36" etag="juqqZ3kZ7Rrd4xfNRy-I" version="14.2.9" type="github">
   <diagram id="hWo2aQM5unCId87aPsAW" name="Page-1">
     <mxGraphModel dx="2600" dy="2217" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -629,8 +629,8 @@
         <mxCell id="LpLbnfJhshCNVj1fSRHG-20" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.emr_cluster;fillColor=#F58534;gradientColor=none;" parent="1" vertex="1">
           <mxGeometry x="-1610" y="841" width="85.5" height="86" as="geometry" />
         </mxCell>
-        <mxCell id="LpLbnfJhshCNVj1fSRHG-21" value="Nginx 集群" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
-          <mxGeometry x="-1595.5" y="926" width="70" height="20" as="geometry" />
+        <mxCell id="LpLbnfJhshCNVj1fSRHG-21" value="统一接入层" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
+          <mxGeometry x="-1600.5" y="926" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="LpLbnfJhshCNVj1fSRHG-22" value="控制集群" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
           <mxGeometry x="-1148.62" y="410" width="60" height="20" as="geometry" />

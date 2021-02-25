@@ -1,9 +1,12 @@
-<mxfile host="app.diagrams.net" modified="2021-02-25T07:48:27.617Z" agent="5.0 (Macintosh; Intel Mac OS X 11_1_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36" etag="rZRBz9d7R1-sogp33HI8" version="14.4.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-02-25T07:56:08.269Z" agent="5.0 (Macintosh; Intel Mac OS X 11_1_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36" etag="3HwwkrU8BMT8RD9Wi11p" version="14.4.2" type="github">
   <diagram id="hWo2aQM5unCId87aPsAW" name="Page-1">
-    <mxGraphModel dx="3631" dy="3790" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3348" dy="3249" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="oYQuMcZd56McHBgfFMfX-102" value="" style="rounded=1;arcSize=10;dashed=1;fillColor=none;gradientColor=none;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="5000" y="2410" width="1610" height="1730" as="geometry" />
+        </mxCell>
         <mxCell id="oYQuMcZd56McHBgfFMfX-44" value="" style="rounded=1;arcSize=10;dashed=1;fillColor=none;gradientColor=none;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="5050" y="1234.1" width="1290" height="1015.9" as="geometry" />
         </mxCell>
@@ -2986,7 +2989,7 @@
             <mxGeometry x="6058" y="1450.1999999999998" width="160" height="110.00000000000001" as="geometry" />
           </mxCell>
         </object>
-        <mxCell id="oYQuMcZd56McHBgfFMfX-46" value="场景上下文" style="dashed=0;html=1;fillColor=#F0F2F5;strokeColor=none;align=center;rounded=1;arcSize=10;fontColor=#596780;fontStyle=1;fontSize=11;shadow=0" vertex="1" parent="1">
+        <mxCell id="oYQuMcZd56McHBgfFMfX-46" value="场景上下文图" style="dashed=0;html=1;fillColor=#F0F2F5;strokeColor=none;align=center;rounded=1;arcSize=10;fontColor=#596780;fontStyle=1;fontSize=11;shadow=0" vertex="1" parent="1">
           <mxGeometry x="5170" y="2230" width="80" height="20" as="geometry" />
         </mxCell>
         <object placeholders="1" c4Name="feops" c4Type="Software System" c4Description="应用元数据管理" label="&lt;b&gt;%c4Name%&lt;/b&gt;&lt;div&gt;[%c4Type%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;%c4Description%&lt;/div&gt;" id="oYQuMcZd56McHBgfFMfX-47">
@@ -3025,7 +3028,7 @@
         </object>
         <object placeholders="1" c4Name="ae-dc 系统调度中心 (总控)" c4Type="Container" c4Technology="无状态, Node.js, http, wire-protocol(command)" c4Description="负责整个 AE Region 的&#xa;核心状态维护, 策略的生成和计算, 工作负载调度&#xa;以及各个子系统的管理&#xa;暴露了 AE 底层系统核心功能的对外入口" label="&lt;b&gt;%c4Name%&lt;/b&gt;&lt;div&gt;[%c4Type%: %c4Technology%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;%c4Description%&lt;/div&gt;" id="oYQuMcZd56McHBgfFMfX-56">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#438DD5;fontColor=#ffffff;align=center;arcSize=10;strokeColor=#3C7FC0;metaEdit=1;metaData={&quot;c4Type&quot;:{&quot;editable&quot;:false}};points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" vertex="1" parent="1">
-            <mxGeometry x="5233" y="3196.5" width="380" height="197" as="geometry" />
+            <mxGeometry x="5370" y="3207" width="380" height="197" as="geometry" />
           </mxCell>
         </object>
         <object placeholders="1" c4Name="AE 运维" c4Type="Person" c4Description="运维整个 AE 平台的&#xa;管理员" label="&lt;b&gt;%c4Name%&lt;/b&gt;&lt;div&gt;[%c4Type%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;%c4Description%&lt;/div&gt;" id="oYQuMcZd56McHBgfFMfX-57">
@@ -3035,7 +3038,7 @@
         </object>
         <object placeholders="1" c4Name="ae-hk 宿主控制器 (分控)" c4Type="Container" c4Technology="有状态, Node.js, wire-protocol(command)" c4Description="与 ae-dc 通过 wire-protocol(command) 直接建立联系保持会话,&#xa;接收其控制信号, 并反馈自身以及节点和实例等状态统计" label="&lt;b&gt;%c4Name%&lt;/b&gt;&lt;div&gt;[%c4Type%: %c4Technology%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;%c4Description%&lt;/div&gt;" id="oYQuMcZd56McHBgfFMfX-58">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#438DD5;fontColor=#ffffff;align=center;arcSize=10;strokeColor=#3C7FC0;metaEdit=1;metaData={&quot;c4Type&quot;:{&quot;editable&quot;:false}};points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" vertex="1" parent="1">
-            <mxGeometry x="5903" y="3216.4" width="380" height="157.2" as="geometry" />
+            <mxGeometry x="6013" y="3226.9" width="380" height="157.2" as="geometry" />
           </mxCell>
         </object>
         <object placeholders="1" c4Name="ae-gateway 网关节点" c4Type="Container" c4Technology="有状态, UDS, http/ws, wire-protocol(command), proxy, LB, route" c4Description="数据面入口,&#xa;业务流量网关,&#xa;维护一个动态路由表,&#xa;将进入 AE Region 的请求进行&#xa;检查, 预处理, 选路, 负载均衡&#xa;以及转发和日志" label="&lt;b&gt;%c4Name%&lt;/b&gt;&lt;div&gt;[%c4Type%: %c4Technology%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;%c4Description%&lt;/div&gt;" id="oYQuMcZd56McHBgfFMfX-59">
@@ -3055,7 +3058,7 @@
         </object>
         <object placeholders="1" c4Name="ae-container 容器节点" c4Type="Container" c4Technology="有状态, UDS, http/ws, wire-protocol(command), nano-process, js/wasm, v8-engine, runtime-lib, resource-constraint" c4Description="使用 nano process 模型托管应用实例,&#xa;处理来自 ae-gateway 转发的流量,&#xa;透明提供应用的优雅启停, 分析诊断, 日志管理, 动态补丁,&#xa;开箱即用的二方服务支持等&#xa;" label="&lt;b&gt;%c4Name%&lt;/b&gt;&lt;div&gt;[%c4Type%: %c4Technology%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;%c4Description%&lt;/div&gt;" id="oYQuMcZd56McHBgfFMfX-62">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#438DD5;fontColor=#ffffff;align=center;arcSize=10;strokeColor=#3C7FC0;metaEdit=1;metaData={&quot;c4Type&quot;:{&quot;editable&quot;:false}};points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" vertex="1" parent="1">
-            <mxGeometry x="6113" y="3573.3" width="410" height="181.2" as="geometry" />
+            <mxGeometry x="6160" y="3589.8" width="410" height="181.2" as="geometry" />
           </mxCell>
         </object>
         <object placeholders="1" c4Name="ae-downloader" c4Type="Container" c4Technology="technology" c4Description="Description" label="&lt;b&gt;%c4Name%&lt;/b&gt;&lt;div&gt;[%c4Type%: %c4Technology%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;%c4Description%&lt;/div&gt;" id="oYQuMcZd56McHBgfFMfX-63">
@@ -3075,7 +3078,7 @@
         </object>
         <object placeholders="1" c4Name="ae-sidecar" c4Type="Container" c4Technology="technology" c4Description="Description" label="&lt;b&gt;%c4Name%&lt;/b&gt;&lt;div&gt;[%c4Type%: %c4Technology%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;%c4Description%&lt;/div&gt;" id="oYQuMcZd56McHBgfFMfX-66">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#438DD5;fontColor=#ffffff;align=center;arcSize=10;strokeColor=#3C7FC0;metaEdit=1;metaData={&quot;c4Type&quot;:{&quot;editable&quot;:false}};points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" vertex="1" parent="1">
-            <mxGeometry x="5938" y="3771" width="160" height="110.00000000000001" as="geometry" />
+            <mxGeometry x="5895" y="3930.5" width="160" height="110.00000000000001" as="geometry" />
           </mxCell>
         </object>
         <object placeholders="1" c4Type="Relationship" c4Technology="technology" c4Description="Description" label="&lt;div style=&quot;text-align: left&quot;&gt;&lt;div style=&quot;text-align: center&quot;&gt;&lt;b&gt;%c4Description%&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;text-align: center&quot;&gt;[%c4Technology%]&lt;/div&gt;&lt;/div&gt;" id="oYQuMcZd56McHBgfFMfX-68">
@@ -3248,7 +3251,7 @@
           </mxCell>
         </object>
         <object placeholders="1" c4Type="Relationship" c4Technology="technology" c4Description="Description" label="&lt;div style=&quot;text-align: left&quot;&gt;&lt;div style=&quot;text-align: center&quot;&gt;&lt;b&gt;%c4Description%&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;text-align: center&quot;&gt;[%c4Technology%]&lt;/div&gt;&lt;/div&gt;" id="oYQuMcZd56McHBgfFMfX-100">
-          <mxCell style="edgeStyle=none;rounded=0;html=1;entryX=0.5;entryY=0;jettySize=auto;orthogonalLoop=1;strokeColor=#707070;strokeWidth=2;fontColor=#707070;jumpStyle=none;dashed=1;metaEdit=1;metaData={&quot;c4Type&quot;:{&quot;editable&quot;:false}};entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="oYQuMcZd56McHBgfFMfX-66">
+          <mxCell style="edgeStyle=none;rounded=0;html=1;entryX=0.5;entryY=0;jettySize=auto;orthogonalLoop=1;strokeColor=#707070;strokeWidth=2;fontColor=#707070;jumpStyle=none;dashed=1;metaEdit=1;metaData={&quot;c4Type&quot;:{&quot;editable&quot;:false}};entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="oYQuMcZd56McHBgfFMfX-58" target="oYQuMcZd56McHBgfFMfX-66">
             <mxGeometry width="160" relative="1" as="geometry">
               <mxPoint x="6088" y="3370.5" as="sourcePoint" />
               <mxPoint x="6178" y="3520.5" as="targetPoint" />
@@ -3260,6 +3263,38 @@
             <mxGeometry width="160" relative="1" as="geometry">
               <mxPoint x="5978" y="3620.5" as="sourcePoint" />
               <mxPoint x="6138" y="3620.5" as="targetPoint" />
+            </mxGeometry>
+          </mxCell>
+        </object>
+        <mxCell id="oYQuMcZd56McHBgfFMfX-103" value="容器图" style="dashed=0;html=1;fillColor=#F0F2F5;strokeColor=none;align=center;rounded=1;arcSize=10;fontColor=#596780;fontStyle=1;fontSize=11;shadow=0" vertex="1" parent="1">
+          <mxGeometry x="5150" y="4122" width="80" height="20" as="geometry" />
+        </mxCell>
+        <object placeholders="1" c4Type="Database" c4Technology="mysql" c4Description="存储 AE 元数据" label="%c4Type%&lt;div&gt;[Container:&amp;nbsp;%c4Technology%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;%c4Description%&lt;/div&gt;" id="oYQuMcZd56McHBgfFMfX-104">
+          <mxCell style="shape=cylinder;whiteSpace=wrap;html=1;boundedLbl=1;rounded=0;labelBackgroundColor=none;fillColor=#438DD5;fontSize=12;fontColor=#ffffff;align=center;strokeColor=#3C7FC0;metaEdit=1;points=[[0.5,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.5,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];metaData={&quot;c4Type&quot;:{&quot;editable&quot;:false}};" vertex="1" parent="1">
+            <mxGeometry x="5030" y="3235.5" width="160" height="140" as="geometry" />
+          </mxCell>
+        </object>
+        <object placeholders="1" c4Type="Relationship" c4Technology="technology" c4Description="Description" label="&lt;div style=&quot;text-align: left&quot;&gt;&lt;div style=&quot;text-align: center&quot;&gt;&lt;b&gt;%c4Description%&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;text-align: center&quot;&gt;[%c4Technology%]&lt;/div&gt;&lt;/div&gt;" id="oYQuMcZd56McHBgfFMfX-105">
+          <mxCell style="edgeStyle=none;rounded=0;html=1;entryX=1;entryY=0.5;jettySize=auto;orthogonalLoop=1;strokeColor=#707070;strokeWidth=2;fontColor=#707070;jumpStyle=none;dashed=1;metaEdit=1;metaData={&quot;c4Type&quot;:{&quot;editable&quot;:false}};entryDx=0;entryDy=0;entryPerimeter=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="oYQuMcZd56McHBgfFMfX-56" target="oYQuMcZd56McHBgfFMfX-104">
+            <mxGeometry width="160" relative="1" as="geometry">
+              <mxPoint x="5230" y="3170" as="sourcePoint" />
+              <mxPoint x="5390" y="3170" as="targetPoint" />
+            </mxGeometry>
+          </mxCell>
+        </object>
+        <object placeholders="1" c4Type="Relationship" c4Technology="technology" c4Description="Description" label="&lt;div style=&quot;text-align: left&quot;&gt;&lt;div style=&quot;text-align: center&quot;&gt;&lt;b&gt;%c4Description%&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;text-align: center&quot;&gt;[%c4Technology%]&lt;/div&gt;&lt;/div&gt;" id="oYQuMcZd56McHBgfFMfX-107">
+          <mxCell style="edgeStyle=none;rounded=0;html=1;entryX=0;entryY=0.75;jettySize=auto;orthogonalLoop=1;strokeColor=#707070;strokeWidth=2;fontColor=#707070;jumpStyle=none;dashed=1;metaEdit=1;metaData={&quot;c4Type&quot;:{&quot;editable&quot;:false}};exitX=1;exitY=0.75;exitDx=0;exitDy=0;exitPerimeter=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="oYQuMcZd56McHBgfFMfX-59" target="oYQuMcZd56McHBgfFMfX-62">
+            <mxGeometry width="160" relative="1" as="geometry">
+              <mxPoint x="5440" y="3750" as="sourcePoint" />
+              <mxPoint x="5600" y="3750" as="targetPoint" />
+            </mxGeometry>
+          </mxCell>
+        </object>
+        <object placeholders="1" c4Type="Relationship" c4Technology="technology" c4Description="Description" label="&lt;div style=&quot;text-align: left&quot;&gt;&lt;div style=&quot;text-align: center&quot;&gt;&lt;b&gt;%c4Description%&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;text-align: center&quot;&gt;[%c4Technology%]&lt;/div&gt;&lt;/div&gt;" id="oYQuMcZd56McHBgfFMfX-108">
+          <mxCell style="edgeStyle=none;rounded=0;html=1;entryX=0;entryY=0.25;jettySize=auto;orthogonalLoop=1;strokeColor=#707070;strokeWidth=2;fontColor=#707070;jumpStyle=none;dashed=1;metaEdit=1;metaData={&quot;c4Type&quot;:{&quot;editable&quot;:false}};exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="oYQuMcZd56McHBgfFMfX-65" target="oYQuMcZd56McHBgfFMfX-62">
+            <mxGeometry width="160" relative="1" as="geometry">
+              <mxPoint x="5930" y="3620" as="sourcePoint" />
+              <mxPoint x="6090" y="3620" as="targetPoint" />
             </mxGeometry>
           </mxCell>
         </object>

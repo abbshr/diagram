@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-02-25T05:34:26.846Z" agent="5.0 (Macintosh; Intel Mac OS X 11_1_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36" etag="4sHNsDxVahZV5cQ6ED64" version="14.4.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-02-25T05:51:15.937Z" agent="5.0 (Macintosh; Intel Mac OS X 11_1_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36" etag="E2b5eY9aSXNSd0KV4HZC" version="14.4.2" type="github">
   <diagram id="hWo2aQM5unCId87aPsAW" name="Page-1">
     <mxGraphModel dx="2600" dy="2274" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -2899,7 +2899,7 @@
         <mxCell id="aCdApfi3EfKJyv98Rwle-22" value="" style="rounded=1;arcSize=10;dashed=0;fillColor=none;gradientColor=none;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="5000" y="460" width="590" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="aCdApfi3EfKJyv98Rwle-23" value="ae-dp" style="dashed=0;html=1;fillColor=#F0F2F5;strokeColor=none;align=center;rounded=1;arcSize=10;fontColor=#596780;fontStyle=1;fontSize=11;shadow=0" parent="1" vertex="1">
+        <mxCell id="aCdApfi3EfKJyv98Rwle-23" value="ae-dc" style="dashed=0;html=1;fillColor=#F0F2F5;strokeColor=none;align=center;rounded=1;arcSize=10;fontColor=#596780;fontStyle=1;fontSize=11;shadow=0" parent="1" vertex="1">
           <mxGeometry x="5020" y="441.5" width="110" height="20" as="geometry" />
         </mxCell>
         <mxCell id="aCdApfi3EfKJyv98Rwle-32" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;dashed=1;" parent="1" source="aCdApfi3EfKJyv98Rwle-27" target="aCdApfi3EfKJyv98Rwle-15" edge="1">
@@ -3099,6 +3099,31 @@
               <mxPoint x="5262" y="1639.8" as="sourcePoint" />
               <mxPoint x="5422" y="1639.8" as="targetPoint" />
             </mxGeometry>
+          </mxCell>
+        </object>
+        <object placeholders="1" c4Name="应用开发者" c4Type="Person" c4Description="在 AE 体系下进行&#xa;服务开发&#xa;运维等操作的用户" label="&lt;b&gt;%c4Name%&lt;/b&gt;&lt;div&gt;[%c4Type%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;%c4Description%&lt;/div&gt;" id="oYQuMcZd56McHBgfFMfX-55">
+          <mxCell style="html=1;dashed=0;whitespace=wrap;fillColor=#08427b;strokeColor=none;fontColor=#ffffff;shape=mxgraph.c4.person;align=center;metaEdit=1;points=[[0.5,0,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0]];metaData={&quot;c4Type&quot;:{&quot;editable&quot;:false}};" vertex="1" parent="1">
+            <mxGeometry x="5000" y="2347.8" width="130" height="176" as="geometry" />
+          </mxCell>
+        </object>
+        <object placeholders="1" c4Name="ae-dc 系统调度中心" c4Type="Container" c4Technology="无状态, Node.js, http, wire-protocol(command)" c4Description="负责整个 AE Region 的&#xa;核心状态维护, 策略的生成和计算, 工作负载调度&#xa;以及各个子系统的管理&#xa;暴露了 AE 底层系统核心功能的对外入口" label="&lt;b&gt;%c4Name%&lt;/b&gt;&lt;div&gt;[%c4Type%: %c4Technology%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;%c4Description%&lt;/div&gt;" id="oYQuMcZd56McHBgfFMfX-56">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#438DD5;fontColor=#ffffff;align=center;arcSize=10;strokeColor=#3C7FC0;metaEdit=1;metaData={&quot;c4Type&quot;:{&quot;editable&quot;:false}};points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" vertex="1" parent="1">
+            <mxGeometry x="5190" y="2673" width="380" height="197" as="geometry" />
+          </mxCell>
+        </object>
+        <object placeholders="1" c4Name="AE 运维" c4Type="Person" c4Description="运维整个 AE 平台的&#xa;管理员" label="&lt;b&gt;%c4Name%&lt;/b&gt;&lt;div&gt;[%c4Type%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;%c4Description%&lt;/div&gt;" id="oYQuMcZd56McHBgfFMfX-57">
+          <mxCell style="html=1;dashed=0;whitespace=wrap;fillColor=#08427b;strokeColor=none;fontColor=#ffffff;shape=mxgraph.c4.person;align=center;metaEdit=1;points=[[0.5,0,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0]];metaData={&quot;c4Type&quot;:{&quot;editable&quot;:false}};" vertex="1" parent="1">
+            <mxGeometry x="5230" y="2344.7999999999997" width="130" height="176" as="geometry" />
+          </mxCell>
+        </object>
+        <object placeholders="1" c4Name="ae-hk 宿主控制器 (分控)" c4Type="Container" c4Technology="有状态, Node.js, wire-protocol(command)" c4Description="与 ae-dc 通过 wire-protocol(command) 直接建立联系保持会话,&#xa;接收其控制信号, 并反馈自身以及节点和实例等状态统计" label="&lt;b&gt;%c4Name%&lt;/b&gt;&lt;div&gt;[%c4Type%: %c4Technology%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;%c4Description%&lt;/div&gt;" id="oYQuMcZd56McHBgfFMfX-58">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#438DD5;fontColor=#ffffff;align=center;arcSize=10;strokeColor=#3C7FC0;metaEdit=1;metaData={&quot;c4Type&quot;:{&quot;editable&quot;:false}};points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" vertex="1" parent="1">
+            <mxGeometry x="5190" y="2942" width="380" height="230" as="geometry" />
+          </mxCell>
+        </object>
+        <object placeholders="1" c4Name="name" c4Type="Container" c4Technology="technology" c4Description="Description" label="&lt;b&gt;%c4Name%&lt;/b&gt;&lt;div&gt;[%c4Type%: %c4Technology%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;%c4Description%&lt;/div&gt;" id="oYQuMcZd56McHBgfFMfX-59">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#438DD5;fontColor=#ffffff;align=center;arcSize=10;strokeColor=#3C7FC0;metaEdit=1;metaData={&quot;c4Type&quot;:{&quot;editable&quot;:false}};points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" vertex="1" parent="1">
+            <mxGeometry x="5195" y="3290" width="160" height="110.00000000000001" as="geometry" />
           </mxCell>
         </object>
       </root>

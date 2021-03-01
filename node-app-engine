@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-03-01T04:02:44.738Z" agent="5.0 (Macintosh; Intel Mac OS X 11_1_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.192 Safari/537.36" etag="HDVPu88pg00UvyORtN5T" version="14.4.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-01T04:04:34.626Z" agent="5.0 (Macintosh; Intel Mac OS X 11_1_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.192 Safari/537.36" etag="qa_OJe_JEmzUZS0BWw6g" version="14.4.3" type="github">
   <diagram id="hWo2aQM5unCId87aPsAW" name="Page-1">
     <mxGraphModel dx="2840" dy="3443" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -3587,8 +3587,8 @@
         <mxCell id="trIJHDntLO7M7negwdeg-164" value="AE&lt;br&gt;skynet&lt;br&gt;monitor" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="6715" y="751.9" width="30" height="131" as="geometry" />
         </mxCell>
-        <mxCell id="trIJHDntLO7M7negwdeg-10" value="AE Region 服务部署图" style="dashed=0;html=1;shape=mxgraph.aws3.instance;fillColor=#F58536;gradientColor=none;dashed=0;" vertex="1" parent="1">
-          <mxGeometry x="6290.5" y="1070" width="159" height="41" as="geometry" />
+        <mxCell id="trIJHDntLO7M7negwdeg-167" value="AE Region 服务部署图" style="dashed=0;html=1;fillColor=#F0F2F5;strokeColor=none;align=center;rounded=1;arcSize=10;fontColor=#596780;fontStyle=1;fontSize=11;shadow=0" vertex="1" parent="1">
+          <mxGeometry x="5940.5" y="1070" width="140.5" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

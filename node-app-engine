@@ -1,9 +1,12 @@
-<mxfile host="app.diagrams.net" modified="2021-03-01T04:00:27.837Z" agent="5.0 (Macintosh; Intel Mac OS X 11_1_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.192 Safari/537.36" etag="q8N4lvTTLeuL4T_v0kxJ" version="14.4.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-01T04:02:44.738Z" agent="5.0 (Macintosh; Intel Mac OS X 11_1_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.192 Safari/537.36" etag="HDVPu88pg00UvyORtN5T" version="14.4.3" type="github">
   <diagram id="hWo2aQM5unCId87aPsAW" name="Page-1">
     <mxGraphModel dx="2840" dy="3443" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="trIJHDntLO7M7negwdeg-165" value="" style="rounded=1;arcSize=10;fillColor=none;gradientColor=none;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="5840" y="-197.95" width="1060" height="1287.95" as="geometry" />
+        </mxCell>
         <mxCell id="trIJHDntLO7M7negwdeg-11" value="" style="rounded=1;arcSize=10;dashed=0;fillColor=none;gradientColor=none;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="6476" y="-154.5" width="355" height="240" as="geometry" />
         </mxCell>
@@ -3368,9 +3371,6 @@
             </mxGeometry>
           </mxCell>
         </object>
-        <mxCell id="trIJHDntLO7M7negwdeg-10" value="AE Region 服务部署图" style="dashed=0;html=1;shape=mxgraph.aws3.instance;fillColor=#F58536;gradientColor=none;dashed=0;" vertex="1" parent="1">
-          <mxGeometry x="6320" y="-220" width="159" height="41" as="geometry" />
-        </mxCell>
         <mxCell id="trIJHDntLO7M7negwdeg-12" value="AE 调度中心" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="6568" y="-64.5" width="121" height="60" as="geometry" />
         </mxCell>
@@ -3431,7 +3431,7 @@
         <mxCell id="trIJHDntLO7M7negwdeg-27" value="env: prod" style="rounded=1;align=center;fillColor=#F1F2F4;strokeColor=none;html=1;fontColor=#596780;fontSize=12" vertex="1" parent="1">
           <mxGeometry x="6092.5" y="210" width="81" height="33" as="geometry" />
         </mxCell>
-        <mxCell id="trIJHDntLO7M7negwdeg-30" value="AE 网关节点" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="trIJHDntLO7M7negwdeg-30" value="AE 网关节点 xN" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="5999.5" y="268.9" width="101" height="31" as="geometry" />
         </mxCell>
         <mxCell id="trIJHDntLO7M7negwdeg-114" value="ops: ae-gateway-&amp;lt;name&amp;gt;" style="dashed=0;html=1;fillColor=#F0F2F5;strokeColor=none;align=center;rounded=1;arcSize=10;fontColor=#596780;fontStyle=1;fontSize=11;shadow=0" vertex="1" parent="1">
@@ -3455,7 +3455,7 @@
         <mxCell id="trIJHDntLO7M7negwdeg-120" value="env: pre" style="rounded=1;align=center;fillColor=#F1F2F4;strokeColor=none;html=1;fontColor=#596780;fontSize=12" vertex="1" parent="1">
           <mxGeometry x="6094.5" y="451.5" width="81" height="33" as="geometry" />
         </mxCell>
-        <mxCell id="trIJHDntLO7M7negwdeg-121" value="AE 网关节点" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="trIJHDntLO7M7negwdeg-121" value="AE 网关节点 xN" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="6001.5" y="510.4" width="101" height="31" as="geometry" />
         </mxCell>
         <mxCell id="trIJHDntLO7M7negwdeg-122" value="AE housekeeper" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -3476,7 +3476,7 @@
         <mxCell id="trIJHDntLO7M7negwdeg-127" value="env: qa" style="rounded=1;align=center;fillColor=#F1F2F4;strokeColor=none;html=1;fontColor=#596780;fontSize=12" vertex="1" parent="1">
           <mxGeometry x="6092" y="693.5" width="81" height="33" as="geometry" />
         </mxCell>
-        <mxCell id="trIJHDntLO7M7negwdeg-128" value="AE 网关节点" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="trIJHDntLO7M7negwdeg-128" value="AE 网关节点 xN" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="5999" y="752.4" width="101" height="31" as="geometry" />
         </mxCell>
         <mxCell id="trIJHDntLO7M7negwdeg-129" value="AE housekeeper" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -3509,7 +3509,7 @@
         <mxCell id="trIJHDntLO7M7negwdeg-138" value="env: prod" style="rounded=1;align=center;fillColor=#F1F2F4;strokeColor=none;html=1;fontColor=#596780;fontSize=12" vertex="1" parent="1">
           <mxGeometry x="6572.5" y="210" width="81" height="33" as="geometry" />
         </mxCell>
-        <mxCell id="trIJHDntLO7M7negwdeg-139" value="AE 容器节点" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="trIJHDntLO7M7negwdeg-139" value="AE 容器节点 xN" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="6479.5" y="268.9" width="101" height="31" as="geometry" />
         </mxCell>
         <mxCell id="trIJHDntLO7M7negwdeg-140" value="ops: ae-gateway-&amp;lt;name&amp;gt;" style="dashed=0;html=1;fillColor=#F0F2F5;strokeColor=none;align=center;rounded=1;arcSize=10;fontColor=#596780;fontStyle=1;fontSize=11;shadow=0" vertex="1" parent="1">
@@ -3533,7 +3533,7 @@
         <mxCell id="trIJHDntLO7M7negwdeg-146" value="env: pre" style="rounded=1;align=center;fillColor=#F1F2F4;strokeColor=none;html=1;fontColor=#596780;fontSize=12" vertex="1" parent="1">
           <mxGeometry x="6574.5" y="451.5" width="81" height="33" as="geometry" />
         </mxCell>
-        <mxCell id="trIJHDntLO7M7negwdeg-147" value="AE 容器节点" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="trIJHDntLO7M7negwdeg-147" value="AE 容器节点 xN" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="6481.5" y="510.4" width="101" height="31" as="geometry" />
         </mxCell>
         <mxCell id="trIJHDntLO7M7negwdeg-148" value="AE housekeeper" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -3554,7 +3554,7 @@
         <mxCell id="trIJHDntLO7M7negwdeg-153" value="env: qa" style="rounded=1;align=center;fillColor=#F1F2F4;strokeColor=none;html=1;fontColor=#596780;fontSize=12" vertex="1" parent="1">
           <mxGeometry x="6572" y="693.5" width="81" height="33" as="geometry" />
         </mxCell>
-        <mxCell id="trIJHDntLO7M7negwdeg-154" value="AE 容器节点" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="trIJHDntLO7M7negwdeg-154" value="AE 容器节点 xN" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="6479" y="752.4" width="101" height="31" as="geometry" />
         </mxCell>
         <mxCell id="trIJHDntLO7M7negwdeg-155" value="AE housekeeper" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -3586,6 +3586,9 @@
         </mxCell>
         <mxCell id="trIJHDntLO7M7negwdeg-164" value="AE&lt;br&gt;skynet&lt;br&gt;monitor" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="6715" y="751.9" width="30" height="131" as="geometry" />
+        </mxCell>
+        <mxCell id="trIJHDntLO7M7negwdeg-10" value="AE Region 服务部署图" style="dashed=0;html=1;shape=mxgraph.aws3.instance;fillColor=#F58536;gradientColor=none;dashed=0;" vertex="1" parent="1">
+          <mxGeometry x="6290.5" y="1070" width="159" height="41" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

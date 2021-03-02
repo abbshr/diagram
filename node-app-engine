@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-03-02T12:03:27.452Z" agent="5.0 (Macintosh; Intel Mac OS X 11_1_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.192 Safari/537.36" etag="oCrNg4ErHOnq9cz85D6m" version="14.4.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-02T12:18:43.757Z" agent="5.0 (Macintosh; Intel Mac OS X 11_1_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.192 Safari/537.36" etag="NDUlMyB_-8R2BknSpIJT" version="14.4.3" type="github">
   <diagram id="hWo2aQM5unCId87aPsAW" name="Page-1">
-    <mxGraphModel dx="2600" dy="5737" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3546" dy="7941" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -3665,6 +3665,11 @@
         <mxCell id="trIJHDntLO7M7negwdeg-298" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="trIJHDntLO7M7negwdeg-193" target="trIJHDntLO7M7negwdeg-213">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="trIJHDntLO7M7negwdeg-371" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;endArrow=classic;endFill=1;" edge="1" parent="1" source="trIJHDntLO7M7negwdeg-193" target="trIJHDntLO7M7negwdeg-372">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="6380" y="-900" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="trIJHDntLO7M7negwdeg-193" value="应用大盘" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="6236.5" y="-1762.75" width="120" height="60" as="geometry" />
         </mxCell>
@@ -3876,7 +3881,7 @@
         <mxCell id="trIJHDntLO7M7negwdeg-370" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=classic;endFill=1;" edge="1" parent="1" source="trIJHDntLO7M7negwdeg-266" target="trIJHDntLO7M7negwdeg-365">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="trIJHDntLO7M7negwdeg-266" value="实例组" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="trIJHDntLO7M7negwdeg-266" value="服务" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="6719" y="-1474" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="trIJHDntLO7M7negwdeg-287" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="trIJHDntLO7M7negwdeg-267" target="trIJHDntLO7M7negwdeg-285">
@@ -3896,7 +3901,7 @@
         <mxCell id="trIJHDntLO7M7negwdeg-272" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="trIJHDntLO7M7negwdeg-271" target="trIJHDntLO7M7negwdeg-266">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="trIJHDntLO7M7negwdeg-271" value="实例组列表&lt;br&gt;(多版本实例组)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="trIJHDntLO7M7negwdeg-271" value="服务列表" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="6418.5" y="-1474" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="trIJHDntLO7M7negwdeg-345" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=classic;endFill=1;" edge="1" parent="1" source="trIJHDntLO7M7negwdeg-273" target="trIJHDntLO7M7negwdeg-271">
@@ -3904,7 +3909,7 @@
             <mxPoint x="7070" y="-2180" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="trIJHDntLO7M7negwdeg-273" value="&lt;span&gt;对应实例组列表&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+        <mxCell id="trIJHDntLO7M7negwdeg-273" value="&lt;span&gt;对应服务列表&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="6890" y="-2210" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="trIJHDntLO7M7negwdeg-275" value="发布记录" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -3997,7 +4002,7 @@
         <mxCell id="trIJHDntLO7M7negwdeg-307" value="流量数据" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="7360" y="-1334" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="trIJHDntLO7M7negwdeg-309" value="实例组编号" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="trIJHDntLO7M7negwdeg-309" value="服务编号" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="7310" y="-679" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="trIJHDntLO7M7negwdeg-310" value="实例编号" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -4114,6 +4119,12 @@
         </mxCell>
         <mxCell id="trIJHDntLO7M7negwdeg-367" value="加入 HA 集群" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="7360" y="-1490" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="trIJHDntLO7M7negwdeg-372" value="创建服务" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="6361.5" y="-895" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="trIJHDntLO7M7negwdeg-373" value="状态" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="7180" y="-320" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

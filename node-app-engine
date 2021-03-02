@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-03-02T11:53:19.769Z" agent="5.0 (Macintosh; Intel Mac OS X 11_1_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.192 Safari/537.36" etag="lBKO_CO8y_WhkPShFckx" version="14.4.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-02T11:53:37.257Z" agent="5.0 (Macintosh; Intel Mac OS X 11_1_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.192 Safari/537.36" etag="1ecgyUGPweUGmUWOQXtD" version="14.4.3" type="github">
   <diagram id="hWo2aQM5unCId87aPsAW" name="Page-1">
     <mxGraphModel dx="2195" dy="3605" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -3983,7 +3983,7 @@
         <mxCell id="trIJHDntLO7M7negwdeg-301" value="属性" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="7190" y="-424" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="trIJHDntLO7M7negwdeg-307" value="流量监测" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="trIJHDntLO7M7negwdeg-307" value="流量数据" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="7240" y="-1154" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="trIJHDntLO7M7negwdeg-309" value="实例组编号" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">

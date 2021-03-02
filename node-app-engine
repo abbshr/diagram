@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-03-02T11:53:37.257Z" agent="5.0 (Macintosh; Intel Mac OS X 11_1_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.192 Safari/537.36" etag="1ecgyUGPweUGmUWOQXtD" version="14.4.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-02T11:57:08.204Z" agent="5.0 (Macintosh; Intel Mac OS X 11_1_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.192 Safari/537.36" etag="qLH_v44aXAUwv6d7LCgN" version="14.4.3" type="github">
   <diagram id="hWo2aQM5unCId87aPsAW" name="Page-1">
-    <mxGraphModel dx="2195" dy="3605" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2600" dy="4612" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -3717,6 +3717,9 @@
         <mxCell id="trIJHDntLO7M7negwdeg-292" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="trIJHDntLO7M7negwdeg-208" target="trIJHDntLO7M7negwdeg-291">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="trIJHDntLO7M7negwdeg-364" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=classic;endFill=1;" edge="1" parent="1" source="trIJHDntLO7M7negwdeg-208" target="trIJHDntLO7M7negwdeg-363">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="trIJHDntLO7M7negwdeg-208" value="告警" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="6296.5" y="-1200" width="120" height="60" as="geometry" />
         </mxCell>
@@ -3758,7 +3761,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="trIJHDntLO7M7negwdeg-213" value="设置" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="6296.5" y="-1040" width="120" height="60" as="geometry" />
+          <mxGeometry x="6298.5" y="-920" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="trIJHDntLO7M7negwdeg-216" value="应用名" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="6457" y="-2100" width="120" height="60" as="geometry" />
@@ -3975,10 +3978,10 @@
           <mxGeometry x="6461.5" y="-1124" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="trIJHDntLO7M7negwdeg-293" value="特权申请" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="6470" y="-1040" width="120" height="60" as="geometry" />
+          <mxGeometry x="6490" y="-935" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="trIJHDntLO7M7negwdeg-296" value="调整预置参数" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="6470" y="-940" width="120" height="60" as="geometry" />
+          <mxGeometry x="6482.25" y="-815" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="trIJHDntLO7M7negwdeg-301" value="属性" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="7190" y="-424" width="120" height="60" as="geometry" />
@@ -4091,6 +4094,9 @@
         </mxCell>
         <mxCell id="trIJHDntLO7M7negwdeg-362" value="应用编号" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="7190" y="-210" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="trIJHDntLO7M7negwdeg-363" value="不可用告警" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="6462.5" y="-1040" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

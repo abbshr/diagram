@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2021-03-08T06:26:32.020Z" agent="5.0 (Macintosh; Intel Mac OS X 11_1_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.82 Safari/537.36" etag="qD3C13k2A13Ku8B9Q8bj" version="14.4.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-08T09:40:31.103Z" agent="5.0 (Macintosh; Intel Mac OS X 11_1_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.82 Safari/537.36" etag="z1JqtLIGMUl5yfdmBz1E" version="14.4.4" type="github">
   <diagram id="hWo2aQM5unCId87aPsAW" name="Page-1">
     <mxGraphModel dx="2642" dy="5402" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="8SGJAX9xypc6Hi-SS9HL-14" value="Thread" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="4513" y="-3105" width="150" height="60" as="geometry" />
+          <mxGeometry x="4515.75" y="-2922.5" width="150" height="60" as="geometry" />
         </mxCell>
         <mxCell id="8SGJAX9xypc6Hi-SS9HL-8" value="" style="rounded=1;arcSize=10;dashed=0;fillColor=none;gradientColor=none;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="4481.5" y="-3480" width="298.5" height="205" as="geometry" />
@@ -4024,9 +4024,17 @@
         <mxCell id="9c0sNVK-g8QaIMTugwkv-87" value="Instance:&lt;br&gt;app-5-2" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1256.5" y="1758" width="70" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="8SGJAX9xypc6Hi-SS9HL-19" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="8SGJAX9xypc6Hi-SS9HL-2" target="8SGJAX9xypc6Hi-SS9HL-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8SGJAX9xypc6Hi-SS9HL-20" value="dlopen" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="8SGJAX9xypc6Hi-SS9HL-19">
+          <mxGeometry x="-0.2939" relative="1" as="geometry">
+            <mxPoint x="10.5" as="offset" />
+          </mxGeometry>
+        </mxCell>
         <object placeholders="1" c4Name="container 节点" c4Type="Component" c4Technology="lang: Node.js&#xa;type: Process, main Thread" c4Description="" label="&lt;b&gt;%c4Name%&lt;/b&gt;&lt;div&gt;[%c4Type%: %c4Technology%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;%c4Description%&lt;/div&gt;" id="8SGJAX9xypc6Hi-SS9HL-2">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#85BBF0;fontColor=#ffffff;align=center;arcSize=10;strokeColor=#78A8D8;metaEdit=1;metaData={&quot;c4Type&quot;:{&quot;editable&quot;:false}};points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" vertex="1" parent="1">
-            <mxGeometry x="4245" y="-3432.5" width="160" height="110.00000000000001" as="geometry" />
+            <mxGeometry x="4186" y="-3432.5" width="160" height="110.00000000000001" as="geometry" />
           </mxCell>
         </object>
         <object placeholders="1" c4Name="vm kernel" c4Type="Component" c4Technology="&#xa;lang: C/C++/Rust&#xa;type: 动态链接库" c4Description="实例虚拟机内核" label="&lt;b&gt;%c4Name%&lt;/b&gt;&lt;div&gt;[%c4Type%: %c4Technology%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;%c4Description%&lt;/div&gt;" id="8SGJAX9xypc6Hi-SS9HL-4">
@@ -4034,19 +4042,34 @@
             <mxGeometry x="4600" y="-3435" width="160" height="110.00000000000001" as="geometry" />
           </mxCell>
         </object>
-        <mxCell id="8SGJAX9xypc6Hi-SS9HL-6" value="node addon wrapper" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="8SGJAX9xypc6Hi-SS9HL-6" value="node addon (bindings)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="4439" y="-3442.5" width="140" height="130" as="geometry" />
         </mxCell>
         <object placeholders="1" c4Name="container 节点" c4Type="Component" c4Technology="lang: Rust&#xa;type: Process, main Thread" c4Description="" label="&lt;b&gt;%c4Name%&lt;/b&gt;&lt;div&gt;[%c4Type%: %c4Technology%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;%c4Description%&lt;/div&gt;" id="8SGJAX9xypc6Hi-SS9HL-12">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#85BBF0;fontColor=#ffffff;align=center;arcSize=10;strokeColor=#78A8D8;metaEdit=1;metaData={&quot;c4Type&quot;:{&quot;editable&quot;:false}};points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" vertex="1" parent="1">
-            <mxGeometry x="4242.25" y="-3200" width="160" height="110.00000000000001" as="geometry" />
+            <mxGeometry x="4245" y="-3017.5" width="160" height="110.00000000000001" as="geometry" />
           </mxCell>
         </object>
         <object placeholders="1" c4Name="vm kernel" c4Type="Component" c4Technology="&#xa;lang: C/C++/Rust&#xa;type: 动态链接库" c4Description="实例虚拟机内核" label="&lt;b&gt;%c4Name%&lt;/b&gt;&lt;div&gt;[%c4Type%: %c4Technology%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;%c4Description%&lt;/div&gt;" id="8SGJAX9xypc6Hi-SS9HL-13">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#85BBF0;fontColor=#ffffff;align=center;arcSize=10;strokeColor=#78A8D8;metaEdit=1;metaData={&quot;c4Type&quot;:{&quot;editable&quot;:false}};points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" vertex="1" parent="1">
-            <mxGeometry x="4441.25" y="-3200" width="160" height="110.00000000000001" as="geometry" />
+            <mxGeometry x="4444" y="-3017.5" width="160" height="110.00000000000001" as="geometry" />
           </mxCell>
         </object>
+        <mxCell id="8SGJAX9xypc6Hi-SS9HL-17" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="8SGJAX9xypc6Hi-SS9HL-15" target="8SGJAX9xypc6Hi-SS9HL-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8SGJAX9xypc6Hi-SS9HL-15" value="Neon" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="4373.62" y="-3200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8SGJAX9xypc6Hi-SS9HL-18" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="8SGJAX9xypc6Hi-SS9HL-16" target="8SGJAX9xypc6Hi-SS9HL-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8SGJAX9xypc6Hi-SS9HL-16" value="napi-rs" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="4524.37" y="-3200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8SGJAX9xypc6Hi-SS9HL-21" value="编译生成" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="4375.8099999999995" y="-3255" width="266.38" height="35" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>

@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-03-11T06:38:29.444Z" agent="5.0 (Macintosh; Intel Mac OS X 11_1_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.82 Safari/537.36" etag="1MRzEiqHlPIaPwAGH1u6" version="14.4.5" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-11T06:39:50.232Z" agent="5.0 (Macintosh; Intel Mac OS X 11_1_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.82 Safari/537.36" etag="G13nCdyCE0-QwwdxCGw6" version="14.4.5" type="github">
   <diagram id="hWo2aQM5unCId87aPsAW" name="Page-1">
-    <mxGraphModel dx="6384" dy="14592" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2442" dy="5355" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -5426,7 +5426,7 @@
         <mxCell id="gn6D-AyZLa9makJllHAl-34" value="" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;editable=1;overflow=hidden;" vertex="1" parent="gn6D-AyZLa9makJllHAl-33">
           <mxGeometry width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="gn6D-AyZLa9makJllHAl-35" value="strategy" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" vertex="1" parent="gn6D-AyZLa9makJllHAl-33">
+        <mxCell id="gn6D-AyZLa9makJllHAl-35" value="name" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" vertex="1" parent="gn6D-AyZLa9makJllHAl-33">
           <mxGeometry x="30" width="150" height="30" as="geometry" />
         </mxCell>
         <mxCell id="gn6D-AyZLa9makJllHAl-36" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="gn6D-AyZLa9makJllHAl-20">
@@ -5435,7 +5435,7 @@
         <mxCell id="gn6D-AyZLa9makJllHAl-37" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;editable=1;overflow=hidden;" vertex="1" parent="gn6D-AyZLa9makJllHAl-36">
           <mxGeometry width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="gn6D-AyZLa9makJllHAl-38" value="strategy_config" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" vertex="1" parent="gn6D-AyZLa9makJllHAl-36">
+        <mxCell id="gn6D-AyZLa9makJllHAl-38" value="config" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" vertex="1" parent="gn6D-AyZLa9makJllHAl-36">
           <mxGeometry x="30" width="150" height="30" as="geometry" />
         </mxCell>
         <mxCell id="gn6D-AyZLa9makJllHAl-42" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="gn6D-AyZLa9makJllHAl-20">

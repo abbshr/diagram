@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-03-12T06:49:04.795Z" agent="5.0 (Macintosh; Intel Mac OS X 11_1_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.82 Safari/537.36" etag="uNtMrXNWm59Iy7ZJBS-R" version="14.4.5" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-12T07:31:53.077Z" agent="5.0 (Macintosh; Intel Mac OS X 11_1_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.82 Safari/537.36" etag="dONN9uUcznnT3nEPM1Bh" version="14.4.5" type="github">
   <diagram id="hWo2aQM5unCId87aPsAW" name="Page-1">
-    <mxGraphModel dx="3005" dy="4384" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3651" dy="4433" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -4137,11 +4137,6 @@
             <mxPoint x="6138.25" y="-1140" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="NcdLerLiVWeZrfFqk2c9-18" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="NcdLerLiVWeZrfFqk2c9-1" target="NcdLerLiVWeZrfFqk2c9-19" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="6078.25" y="-1190" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="NcdLerLiVWeZrfFqk2c9-20" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="NcdLerLiVWeZrfFqk2c9-1" target="NcdLerLiVWeZrfFqk2c9-21" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="5998.25" y="-1270" as="targetPoint" />
@@ -4255,9 +4250,6 @@
         </mxCell>
         <mxCell id="NcdLerLiVWeZrfFqk2c9-15" value="节点管理" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="4385.75" y="-1780" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="NcdLerLiVWeZrfFqk2c9-19" value="权限管理" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="5047.75" y="-1780" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="NcdLerLiVWeZrfFqk2c9-21" value="实例管理" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="5658.25" y="-1780" width="120" height="60" as="geometry" />

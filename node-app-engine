@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-03-16T09:38:53.924Z" agent="5.0 (Macintosh; Intel Mac OS X 11_1_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.82 Safari/537.36" etag="NFSaAKArj2cfbwViv-5X" version="14.4.5" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-16T09:57:00.428Z" agent="5.0 (Macintosh; Intel Mac OS X 11_1_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.82 Safari/537.36" etag="cgOJaLRqPB_-pQa-XRX_" version="14.4.5" type="github">
   <diagram id="hWo2aQM5unCId87aPsAW" name="Page-1">
-    <mxGraphModel dx="5438" dy="5735" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2442" dy="4019" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -5459,6 +5459,60 @@
             <mxPoint x="8910" y="501.5" as="sourcePoint" />
             <mxPoint x="9010" y="401.5" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="gn6D-AyZLa9makJllHAl-56" value="DC 集群自治" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="9360" y="-3360" width="120" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="gn6D-AyZLa9makJllHAl-57" value="" style="endArrow=none;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="9500" y="-3050" as="sourcePoint" />
+            <mxPoint x="9500" y="-3390" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gn6D-AyZLa9makJllHAl-58" value="调度管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="9520" y="-3360" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gn6D-AyZLa9makJllHAl-59" value="宿主管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="9650" y="-3360" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gn6D-AyZLa9makJllHAl-60" value="路由管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="9780" y="-3360" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gn6D-AyZLa9makJllHAl-61" value="策略管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="9910" y="-3360" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gn6D-AyZLa9makJllHAl-62" value="" style="endArrow=none;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="9520" y="-3150" as="sourcePoint" />
+            <mxPoint x="10050" y="-3150" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gn6D-AyZLa9makJllHAl-63" value="集群管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="9520" y="-3290" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gn6D-AyZLa9makJllHAl-64" value="区域管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="9650" y="-3290" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gn6D-AyZLa9makJllHAl-65" value="单元管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="9780" y="-3290" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gn6D-AyZLa9makJllHAl-66" value="应用管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="9910" y="-3290" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gn6D-AyZLa9makJllHAl-67" value="服务管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="9520" y="-3220" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gn6D-AyZLa9makJllHAl-68" value="节点管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="9650" y="-3220" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gn6D-AyZLa9makJllHAl-69" value="分控管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="9520" y="-3140" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gn6D-AyZLa9makJllHAl-70" value="HTTP 服务器" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="9650" y="-3140" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gn6D-AyZLa9makJllHAl-71" value="DB" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="9780" y="-3140" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

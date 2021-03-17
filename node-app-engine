@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-03-16T10:03:54.000Z" agent="5.0 (Macintosh; Intel Mac OS X 11_1_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.82 Safari/537.36" etag="7NevImyERA9gpERkgpdU" version="14.4.5" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-17T05:52:55.544Z" agent="5.0 (Macintosh; Intel Mac OS X 11_1_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.82 Safari/537.36" etag="rpGFoiyISu7iTVjlO_tI" version="14.4.5" type="github">
   <diagram id="hWo2aQM5unCId87aPsAW" name="Page-1">
-    <mxGraphModel dx="2442" dy="3971" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2442" dy="4019" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -5507,6 +5507,27 @@
         </mxCell>
         <mxCell id="gn6D-AyZLa9makJllHAl-71" value="DB" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="9780" y="-3140" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gn6D-AyZLa9makJllHAl-72" value="资源管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="9520" y="-2794" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gn6D-AyZLa9makJllHAl-73" value="HTTP 服务器" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="9650" y="-2794" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gn6D-AyZLa9makJllHAl-74" value="Box 组管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="9780" y="-2794" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gn6D-AyZLa9makJllHAl-75" value="命令服务器" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="9910" y="-2794" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gn6D-AyZLa9makJllHAl-76" value="Box 控制器" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="9520" y="-2867" width="510" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gn6D-AyZLa9makJllHAl-77" value="VM" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="9780" y="-2940" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gn6D-AyZLa9makJllHAl-78" value="Box" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="9780" y="-3012" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-05-12T09:30:48.833Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36" etag="hKhh53XEhl2FOsGboeVr" version="14.6.11" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-12T09:31:01.186Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36" etag="XlvMU19HdW3f1W7GgTXe" version="14.6.11" type="github">
   <diagram id="hWo2aQM5unCId87aPsAW" name="Page-1">
     <mxGraphModel dx="2835" dy="6504" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -5754,7 +5754,7 @@
         <mxCell id="qMN6bfmzJrckO-0T3Qs6-1" value="cube core&lt;br&gt;(待移除)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e51400;strokeColor=#B20000;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="4370" y="-5470" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="qMN6bfmzJrckO-0T3Qs6-2" value="cube manage" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="qMN6bfmzJrckO-0T3Qs6-2" value="cube manage (前端服务)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="4369" y="-5550" width="411" height="60" as="geometry" />
         </mxCell>
         <mxCell id="qMN6bfmzJrckO-0T3Qs6-3" value="ae developer&lt;br&gt;platform" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#6d8764;strokeColor=#3A5431;fontColor=#ffffff;" vertex="1" parent="1">

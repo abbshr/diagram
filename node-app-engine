@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-05-12T09:30:10.128Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36" etag="MDDrwsIG72fhO_VbWvuM" version="14.6.11" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-12T09:30:48.833Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36" etag="hKhh53XEhl2FOsGboeVr" version="14.6.11" type="github">
   <diagram id="hWo2aQM5unCId87aPsAW" name="Page-1">
     <mxGraphModel dx="2835" dy="6504" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -5751,7 +5751,7 @@
         <mxCell id="gVRAVK9RjtQYL5NdzsKP-6" value="申请发布" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.buttons.button;strokeColor=#666666;fontColor=#ffffff;mainText=;buttonStyle=round;fontSize=17;fontStyle=1;fillColor=#008cff;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="631" y="-4900" width="309.5" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="qMN6bfmzJrckO-0T3Qs6-1" value="cube core" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e51400;strokeColor=#B20000;fontColor=#ffffff;" vertex="1" parent="1">
+        <mxCell id="qMN6bfmzJrckO-0T3Qs6-1" value="cube core&lt;br&gt;(待移除)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e51400;strokeColor=#B20000;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="4370" y="-5470" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="qMN6bfmzJrckO-0T3Qs6-2" value="cube manage" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -5760,7 +5760,7 @@
         <mxCell id="qMN6bfmzJrckO-0T3Qs6-3" value="ae developer&lt;br&gt;platform" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#6d8764;strokeColor=#3A5431;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="4514.5" y="-5470" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="qMN6bfmzJrckO-0T3Qs6-4" value="ae console" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#a0522d;strokeColor=#6D1F00;fontColor=#ffffff;" vertex="1" parent="1">
+        <mxCell id="qMN6bfmzJrckO-0T3Qs6-4" value="ae console&lt;br&gt;(待创建)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#a0522d;strokeColor=#6D1F00;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="4659.5" y="-5470" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="qMN6bfmzJrckO-0T3Qs6-5" value="ae dc" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#6d8764;strokeColor=#3A5431;fontColor=#ffffff;" vertex="1" parent="1">
@@ -5780,6 +5780,11 @@
               <mxPoint x="4458.02" y="-5380" />
               <mxPoint x="4548.02" y="-5380" />
             </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qMN6bfmzJrckO-0T3Qs6-9" value="迁移" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="qMN6bfmzJrckO-0T3Qs6-8">
+          <mxGeometry x="-0.3616" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
       </root>

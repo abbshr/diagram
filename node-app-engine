@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-06-05T15:43:36.810Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36 Edg/91.0.864.37" etag="Y0aQ1J_7BeH4fuM6TtDg" version="14.7.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-05T15:47:21.711Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36 Edg/91.0.864.37" etag="v0z5Ds4oDdCshfjce6BP" version="14.7.6" type="github">
   <diagram id="hWo2aQM5unCId87aPsAW" name="Page-1">
     <mxGraphModel dx="4482" dy="9711" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -6393,6 +6393,21 @@
         </mxCell>
         <mxCell id="wZ1dS02ImF7D_T0wOaDH-261" value="风险评估" style="shape=rect;strokeColor=none;fillColor=#008cff;strokeWidth=1;dashed=0;rounded=1;arcSize=20;fontColor=#ffffff;fontSize=17;spacing=2;spacingTop=-2;align=left;autosize=1;spacingLeft=4;resizeWidth=0;resizeHeight=0;perimeter=none;" vertex="1" parent="wZ1dS02ImF7D_T0wOaDH-260">
           <mxGeometry x="5" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="wZ1dS02ImF7D_T0wOaDH-262" value="综合评分" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;fontSize=20;strokeWidth=1;" vertex="1" parent="wZ1dS02ImF7D_T0wOaDH-260">
+          <mxGeometry x="552.5" y="30" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wZ1dS02ImF7D_T0wOaDH-263" value="服务健康度" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;fontSize=20;strokeWidth=1;" vertex="1" parent="wZ1dS02ImF7D_T0wOaDH-260">
+          <mxGeometry x="40" y="120" width="166" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wZ1dS02ImF7D_T0wOaDH-264" value="TPS" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;fontSize=20;strokeWidth=1;" vertex="1" parent="wZ1dS02ImF7D_T0wOaDH-260">
+          <mxGeometry x="230" y="120" width="166" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wZ1dS02ImF7D_T0wOaDH-265" value="资源开销" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;fontSize=20;strokeWidth=1;" vertex="1" parent="wZ1dS02ImF7D_T0wOaDH-260">
+          <mxGeometry x="420" y="120" width="166" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wZ1dS02ImF7D_T0wOaDH-266" value="操作建议" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;fontSize=20;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="4240" y="-5220" width="166" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

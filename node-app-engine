@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-06-05T15:20:08.897Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36 Edg/91.0.864.37" etag="SfHpIRb5poTRK-JC1Nr_" version="14.7.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-05T15:31:36.653Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36 Edg/91.0.864.37" etag="vk-xCriIpIZVv5rOOreh" version="14.7.6" type="github">
   <diagram id="hWo2aQM5unCId87aPsAW" name="Page-1">
     <mxGraphModel dx="4078" dy="9493" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -6275,26 +6275,82 @@
         <mxCell id="wZ1dS02ImF7D_T0wOaDH-206" value="" style="shape=mxgraph.mockup.containers.marginRect;rectMarginTop=10;strokeColor=#666666;strokeWidth=1;dashed=0;rounded=1;arcSize=5;recursiveResize=0;shadow=0;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="6358" y="-5080" width="1172" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="wZ1dS02ImF7D_T0wOaDH-207" value="日志面板" style="shape=rect;strokeColor=none;fillColor=#008cff;strokeWidth=1;dashed=0;rounded=1;arcSize=20;fontColor=#ffffff;fontSize=17;spacing=2;spacingTop=-2;align=left;autosize=1;spacingLeft=4;resizeWidth=0;resizeHeight=0;perimeter=none;" vertex="1" parent="wZ1dS02ImF7D_T0wOaDH-206">
+        <mxCell id="wZ1dS02ImF7D_T0wOaDH-207" value="服务日志" style="shape=rect;strokeColor=none;fillColor=#008cff;strokeWidth=1;dashed=0;rounded=1;arcSize=20;fontColor=#ffffff;fontSize=17;spacing=2;spacingTop=-2;align=left;autosize=1;spacingLeft=4;resizeWidth=0;resizeHeight=0;perimeter=none;" vertex="1" parent="wZ1dS02ImF7D_T0wOaDH-206">
           <mxGeometry x="5" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="wZ1dS02ImF7D_T0wOaDH-208" value="" style="shape=mxgraph.mockup.containers.marginRect;rectMarginTop=10;strokeColor=#666666;strokeWidth=1;dashed=0;rounded=1;arcSize=5;recursiveResize=0;shadow=0;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="6359" y="-4840" width="1172" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="wZ1dS02ImF7D_T0wOaDH-209" value="监控面板" style="shape=rect;strokeColor=none;fillColor=#008cff;strokeWidth=1;dashed=0;rounded=1;arcSize=20;fontColor=#ffffff;fontSize=17;spacing=2;spacingTop=-2;align=left;autosize=1;spacingLeft=4;resizeWidth=0;resizeHeight=0;perimeter=none;" vertex="1" parent="wZ1dS02ImF7D_T0wOaDH-208">
+        <mxCell id="wZ1dS02ImF7D_T0wOaDH-209" value="服务监控" style="shape=rect;strokeColor=none;fillColor=#008cff;strokeWidth=1;dashed=0;rounded=1;arcSize=20;fontColor=#ffffff;fontSize=17;spacing=2;spacingTop=-2;align=left;autosize=1;spacingLeft=4;resizeWidth=0;resizeHeight=0;perimeter=none;" vertex="1" parent="wZ1dS02ImF7D_T0wOaDH-208">
           <mxGeometry x="5" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="wZ1dS02ImF7D_T0wOaDH-210" value="" style="shape=mxgraph.mockup.containers.marginRect;rectMarginTop=10;strokeColor=#666666;strokeWidth=1;dashed=0;rounded=1;arcSize=5;recursiveResize=0;shadow=0;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="6970" y="-5560" width="561" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="wZ1dS02ImF7D_T0wOaDH-211" value="告警一览" style="shape=rect;strokeColor=none;fillColor=#008cff;strokeWidth=1;dashed=0;rounded=1;arcSize=20;fontColor=#ffffff;fontSize=17;spacing=2;spacingTop=-2;align=left;autosize=1;spacingLeft=4;resizeWidth=0;resizeHeight=0;perimeter=none;" vertex="1" parent="wZ1dS02ImF7D_T0wOaDH-210">
+        <mxCell id="wZ1dS02ImF7D_T0wOaDH-211" value="服务告警" style="shape=rect;strokeColor=none;fillColor=#008cff;strokeWidth=1;dashed=0;rounded=1;arcSize=20;fontColor=#ffffff;fontSize=17;spacing=2;spacingTop=-2;align=left;autosize=1;spacingLeft=4;resizeWidth=0;resizeHeight=0;perimeter=none;" vertex="1" parent="wZ1dS02ImF7D_T0wOaDH-210">
           <mxGeometry x="5" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="wZ1dS02ImF7D_T0wOaDH-213" value="" style="shape=mxgraph.mockup.containers.marginRect;rectMarginTop=10;strokeColor=#666666;strokeWidth=1;dashed=0;rounded=1;arcSize=5;recursiveResize=0;shadow=0;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="6358" y="-5320" width="1172" height="200" as="geometry" />
+        <mxCell id="wZ1dS02ImF7D_T0wOaDH-216" value="" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.rrect;rSize=0;strokeColor=#999999;fillColor=#ffffff;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="6360" y="-5320" width="1170" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="wZ1dS02ImF7D_T0wOaDH-214" value="实例信息" style="shape=rect;strokeColor=none;fillColor=#008cff;strokeWidth=1;dashed=0;rounded=1;arcSize=20;fontColor=#ffffff;fontSize=17;spacing=2;spacingTop=-2;align=left;autosize=1;spacingLeft=4;resizeWidth=0;resizeHeight=0;perimeter=none;" vertex="1" parent="wZ1dS02ImF7D_T0wOaDH-213">
+        <mxCell id="wZ1dS02ImF7D_T0wOaDH-217" value="实例列表" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.rrect;rSize=0;strokeColor=#999999;fontColor=#008cff;fontSize=17;fillColor=#ffffff;resizeWidth=1;" vertex="1" parent="wZ1dS02ImF7D_T0wOaDH-216">
+          <mxGeometry width="1170" height="30" relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wZ1dS02ImF7D_T0wOaDH-218" value="Item 1" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.anchor;fontSize=17;fontColor=#666666;align=left;spacingLeft=5;resizeWidth=1;" vertex="1" parent="wZ1dS02ImF7D_T0wOaDH-216">
+          <mxGeometry width="1170" height="20" relative="1" as="geometry">
+            <mxPoint y="30" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wZ1dS02ImF7D_T0wOaDH-219" value="Item 2" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.anchor;fontSize=17;fontColor=#666666;align=left;spacingLeft=5;resizeWidth=1;" vertex="1" parent="wZ1dS02ImF7D_T0wOaDH-216">
+          <mxGeometry width="1170" height="20" relative="1" as="geometry">
+            <mxPoint y="50" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wZ1dS02ImF7D_T0wOaDH-220" value="instance alias, type, liveness, status, state, boot time" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.rrect;rSize=0;fontSize=17;fontColor=#666666;align=left;spacingLeft=5;fillColor=#ddeeff;strokeColor=none;resizeWidth=1;" vertex="1" parent="wZ1dS02ImF7D_T0wOaDH-216">
+          <mxGeometry width="1170" height="20" relative="1" as="geometry">
+            <mxPoint y="70" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wZ1dS02ImF7D_T0wOaDH-221" value="Item 4" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.anchor;fontSize=17;fontColor=#666666;align=left;spacingLeft=5;resizeWidth=1;" vertex="1" parent="wZ1dS02ImF7D_T0wOaDH-216">
+          <mxGeometry width="1170" height="20" relative="1" as="geometry">
+            <mxPoint y="90" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wZ1dS02ImF7D_T0wOaDH-223" value="应用管理 / 服务 / 详情 / 实例" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.window;align=left;verticalAlign=top;spacingLeft=8;strokeColor2=#008cff;strokeColor3=#c4c4c4;fontColor=#666666;mainText=;fontSize=17;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="7640" y="-5636" width="1330" height="1036" as="geometry" />
+        </mxCell>
+        <mxCell id="wZ1dS02ImF7D_T0wOaDH-224" value="" style="shape=mxgraph.mockup.containers.marginRect;rectMarginTop=10;strokeColor=#666666;strokeWidth=1;dashed=0;rounded=1;arcSize=5;recursiveResize=0;shadow=0;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="7715" y="-5560" width="545" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="wZ1dS02ImF7D_T0wOaDH-225" value="实例信息" style="shape=rect;strokeColor=none;fillColor=#008cff;strokeWidth=1;dashed=0;rounded=1;arcSize=20;fontColor=#ffffff;fontSize=17;spacing=2;spacingTop=-2;align=left;autosize=1;spacingLeft=4;resizeWidth=0;resizeHeight=0;perimeter=none;" vertex="1" parent="wZ1dS02ImF7D_T0wOaDH-224">
           <mxGeometry x="5" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="wZ1dS02ImF7D_T0wOaDH-226" value="" style="shape=mxgraph.mockup.containers.marginRect;rectMarginTop=10;strokeColor=#666666;strokeWidth=1;dashed=0;rounded=1;arcSize=5;recursiveResize=0;shadow=0;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="7715" y="-5320" width="1175" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="wZ1dS02ImF7D_T0wOaDH-227" value="实例监控" style="shape=rect;strokeColor=none;fillColor=#008cff;strokeWidth=1;dashed=0;rounded=1;arcSize=20;fontColor=#ffffff;fontSize=17;spacing=2;spacingTop=-2;align=left;autosize=1;spacingLeft=4;resizeWidth=0;resizeHeight=0;perimeter=none;" vertex="1" parent="wZ1dS02ImF7D_T0wOaDH-226">
+          <mxGeometry x="5" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="wZ1dS02ImF7D_T0wOaDH-228" value="" style="shape=mxgraph.mockup.containers.marginRect;rectMarginTop=10;strokeColor=#666666;strokeWidth=1;dashed=0;rounded=1;arcSize=5;recursiveResize=0;shadow=0;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="7715" y="-5080" width="1175" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="wZ1dS02ImF7D_T0wOaDH-229" value="实例日志" style="shape=rect;strokeColor=none;fillColor=#008cff;strokeWidth=1;dashed=0;rounded=1;arcSize=20;fontColor=#ffffff;fontSize=17;spacing=2;spacingTop=-2;align=left;autosize=1;spacingLeft=4;resizeWidth=0;resizeHeight=0;perimeter=none;" vertex="1" parent="wZ1dS02ImF7D_T0wOaDH-228">
+          <mxGeometry x="5" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="wZ1dS02ImF7D_T0wOaDH-230" value="" style="shape=mxgraph.mockup.containers.marginRect;rectMarginTop=10;strokeColor=#666666;strokeWidth=1;dashed=0;rounded=1;arcSize=5;recursiveResize=0;shadow=0;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="8320" y="-5560" width="570" height="215" as="geometry" />
+        </mxCell>
+        <mxCell id="wZ1dS02ImF7D_T0wOaDH-231" value="控制面板" style="shape=rect;strokeColor=none;fillColor=#008cff;strokeWidth=1;dashed=0;rounded=1;arcSize=20;fontColor=#ffffff;fontSize=17;spacing=2;spacingTop=-2;align=left;autosize=1;spacingLeft=4;resizeWidth=0;resizeHeight=0;perimeter=none;" vertex="1" parent="wZ1dS02ImF7D_T0wOaDH-230">
+          <mxGeometry x="5" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="wZ1dS02ImF7D_T0wOaDH-237" value="在线调试" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.buttons.button;strokeColor=#666666;fontColor=#ffffff;mainText=;buttonStyle=round;fontSize=17;fontStyle=1;fillColor=#008cff;whiteSpace=wrap;" vertex="1" parent="wZ1dS02ImF7D_T0wOaDH-230">
+          <mxGeometry x="44.25" y="82.5" width="150" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="wZ1dS02ImF7D_T0wOaDH-238" value="在线诊断" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.buttons.button;strokeColor=#666666;fontColor=#ffffff;mainText=;buttonStyle=round;fontSize=17;fontStyle=1;fillColor=#008cff;whiteSpace=wrap;" vertex="1" parent="wZ1dS02ImF7D_T0wOaDH-230">
+          <mxGeometry x="210.25" y="82.5" width="150" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="wZ1dS02ImF7D_T0wOaDH-239" value="离线分析" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.buttons.button;strokeColor=#666666;fontColor=#ffffff;mainText=;buttonStyle=round;fontSize=17;fontStyle=1;fillColor=#008cff;whiteSpace=wrap;" vertex="1" parent="wZ1dS02ImF7D_T0wOaDH-230">
+          <mxGeometry x="375.75" y="82.5" width="150" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

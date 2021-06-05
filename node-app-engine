@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-06-05T16:01:48.750Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36 Edg/91.0.864.37" etag="ZLqsm0e8fNhSzE3GbX2q" version="14.7.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-05T16:02:05.571Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36 Edg/91.0.864.37" etag="hfnXGScjc7fTvPOIMza9" version="14.7.6" type="github">
   <diagram id="hWo2aQM5unCId87aPsAW" name="Page-1">
     <mxGraphModel dx="4482" dy="9711" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -6488,6 +6488,9 @@
         </mxCell>
         <mxCell id="wZ1dS02ImF7D_T0wOaDH-300" value="开始巡检" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;fontSize=20;strokeWidth=1;" vertex="1" parent="1">
           <mxGeometry x="3786" y="-4555" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wZ1dS02ImF7D_T0wOaDH-303" value="不满足高可用" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;fontSize=20;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="4618.75" y="-4340" width="166" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

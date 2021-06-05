@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-06-05T10:00:02.179Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36 Edg/91.0.864.37" etag="LABYgOaMGvEXaR2jYWtc" version="14.7.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-05T10:00:42.863Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36 Edg/91.0.864.37" etag="ef8LX_lSSbS8dpWdKEDL" version="14.7.6" type="github">
   <diagram id="hWo2aQM5unCId87aPsAW" name="Page-1">
-    <mxGraphModel dx="4078" dy="9493" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="5897" dy="10476" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -6034,7 +6034,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="wZ1dS02ImF7D_T0wOaDH-112" value="调整应用级别的 (对所有服务默认的) 预设属性, 包括:&lt;br&gt;- 路由 (域名路径)&lt;br&gt;- 日志 输出目标&lt;br&gt;- 期望副本数&lt;br&gt;- 期望隔离级别&lt;br&gt;- 期望资源约束&lt;br&gt;- 副本是否强制多机房分布&lt;br&gt;- 是否开启动态伸缩" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.text.stickyNote2;fontColor=#666666;mainText=;fontSize=17;whiteSpace=wrap;fillColor=#ffffcc;strokeColor=#F62E00;" vertex="1" parent="1">
-          <mxGeometry x="2980" y="-5470" width="423" height="230" as="geometry" />
+          <mxGeometry x="3109" y="-5680" width="423" height="230" as="geometry" />
         </mxCell>
         <mxCell id="wZ1dS02ImF7D_T0wOaDH-114" value="" style="endArrow=classic;html=1;entryX=-0.003;entryY=0.594;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="wZ1dS02ImF7D_T0wOaDH-115" target="wZ1dS02ImF7D_T0wOaDH-144">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -6043,7 +6043,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="wZ1dS02ImF7D_T0wOaDH-115" value="从应用视角设定不同环境下的告警规则&lt;br&gt;&lt;br&gt;可以选择生效范围:&lt;br&gt;- 所有服务&lt;br&gt;- 标准 + 灰度服务 (默认)&lt;br&gt;- sc 服务&lt;br&gt;&lt;br&gt;告警能力包括:&lt;br&gt;- 错误日志&lt;br&gt;- 服务健康度&lt;br&gt;- 服务可用性" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.text.stickyNote2;fontColor=#666666;mainText=;fontSize=17;whiteSpace=wrap;fillColor=#ffffcc;strokeColor=#F62E00;" vertex="1" parent="1">
-          <mxGeometry x="3029" y="-5890" width="224" height="380" as="geometry" />
+          <mxGeometry x="2794" y="-5800" width="224" height="380" as="geometry" />
         </mxCell>
         <mxCell id="wZ1dS02ImF7D_T0wOaDH-116" value="" style="endArrow=classic;html=1;entryX=-0.003;entryY=0.503;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="wZ1dS02ImF7D_T0wOaDH-117" target="wZ1dS02ImF7D_T0wOaDH-143">
           <mxGeometry width="50" height="50" relative="1" as="geometry">

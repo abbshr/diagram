@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-06-05T16:00:25.611Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36 Edg/91.0.864.37" etag="Sgm4K9cFK4mYgKswaxDf" version="14.7.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-05T16:01:48.750Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36 Edg/91.0.864.37" etag="ZLqsm0e8fNhSzE3GbX2q" version="14.7.6" type="github">
   <diagram id="hWo2aQM5unCId87aPsAW" name="Page-1">
     <mxGraphModel dx="4482" dy="9711" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -6473,6 +6473,12 @@
         </mxCell>
         <mxCell id="wZ1dS02ImF7D_T0wOaDH-289" value="是否绑定了路由" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;fontSize=20;strokeWidth=1;" vertex="1" parent="wZ1dS02ImF7D_T0wOaDH-281">
           <mxGeometry x="354" y="30" width="166" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wZ1dS02ImF7D_T0wOaDH-301" value="告警频繁" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;fontSize=20;strokeWidth=1;" vertex="1" parent="wZ1dS02ImF7D_T0wOaDH-281">
+          <mxGeometry x="615" y="120" width="166" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wZ1dS02ImF7D_T0wOaDH-302" value="资源利用率低" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;fontSize=20;strokeWidth=1;" vertex="1" parent="wZ1dS02ImF7D_T0wOaDH-281">
+          <mxGeometry x="965" y="30" width="166" height="60" as="geometry" />
         </mxCell>
         <mxCell id="wZ1dS02ImF7D_T0wOaDH-290" value="" style="shape=mxgraph.mockup.containers.marginRect;rectMarginTop=10;strokeColor=#666666;strokeWidth=1;dashed=0;rounded=1;arcSize=5;recursiveResize=0;shadow=0;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="3625" y="-4220" width="1225" height="200" as="geometry" />

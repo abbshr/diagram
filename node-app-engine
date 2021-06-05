@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-06-05T10:00:42.863Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36 Edg/91.0.864.37" etag="ef8LX_lSSbS8dpWdKEDL" version="14.7.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-05T10:01:09.816Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36 Edg/91.0.864.37" etag="xTgkuz9BifKwomVFXb3U" version="14.7.6" type="github">
   <diagram id="hWo2aQM5unCId87aPsAW" name="Page-1">
     <mxGraphModel dx="5897" dy="10476" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -5755,33 +5755,33 @@
           <mxGeometry x="631" y="-4900" width="309.5" height="50" as="geometry" />
         </mxCell>
         <mxCell id="qMN6bfmzJrckO-0T3Qs6-1" value="cube core&lt;br&gt;(待移除)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e51400;strokeColor=#B20000;fontColor=#ffffff;" parent="1" vertex="1">
-          <mxGeometry x="4370" y="-5470" width="120" height="60" as="geometry" />
+          <mxGeometry x="1752" y="-4150" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="qMN6bfmzJrckO-0T3Qs6-2" value="cube manage (前端服务)" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="4369" y="-5550" width="411" height="60" as="geometry" />
+          <mxGeometry x="1751" y="-4230" width="411" height="60" as="geometry" />
         </mxCell>
         <mxCell id="qMN6bfmzJrckO-0T3Qs6-3" value="ae developer&lt;br&gt;platform" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#6d8764;strokeColor=#3A5431;fontColor=#ffffff;" parent="1" vertex="1">
-          <mxGeometry x="4514.5" y="-5470" width="120" height="60" as="geometry" />
+          <mxGeometry x="1896.5" y="-4150" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="qMN6bfmzJrckO-0T3Qs6-4" value="ae console&lt;br&gt;(待创建)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#a0522d;strokeColor=#6D1F00;fontColor=#ffffff;" parent="1" vertex="1">
-          <mxGeometry x="4659.5" y="-5470" width="120" height="60" as="geometry" />
+          <mxGeometry x="2041.5" y="-4150" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="qMN6bfmzJrckO-0T3Qs6-5" value="ae dc" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#6d8764;strokeColor=#3A5431;fontColor=#ffffff;" parent="1" vertex="1">
-          <mxGeometry x="4514.25" y="-5390" width="265.75" height="60" as="geometry" />
+          <mxGeometry x="1896.25" y="-4070" width="265.75" height="60" as="geometry" />
         </mxCell>
         <mxCell id="qMN6bfmzJrckO-0T3Qs6-6" value="ae gw" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#647687;strokeColor=#314354;fontColor=#ffffff;" parent="1" vertex="1">
-          <mxGeometry x="4514.63" y="-5310" width="120" height="60" as="geometry" />
+          <mxGeometry x="1896.63" y="-3990" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="qMN6bfmzJrckO-0T3Qs6-7" value="ae ct" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#647687;strokeColor=#314354;fontColor=#ffffff;" parent="1" vertex="1">
-          <mxGeometry x="4659.63" y="-5310" width="120" height="60" as="geometry" />
+          <mxGeometry x="2041.63" y="-3990" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="qMN6bfmzJrckO-0T3Qs6-8" value="" style="endArrow=classic;html=1;edgeStyle=orthogonalEdgeStyle;curved=1;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="4458.02" y="-5400" as="sourcePoint" />
-            <mxPoint x="4548.02" y="-5410" as="targetPoint" />
+            <mxPoint x="1840.0200000000004" y="-4080" as="sourcePoint" />
+            <mxPoint x="1930.0200000000004" y="-4090" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="4458.02" y="-5380" />
-              <mxPoint x="4548.02" y="-5380" />
+              <mxPoint x="1840.0200000000004" y="-4060" />
+              <mxPoint x="1930.0200000000004" y="-4060" />
             </Array>
           </mxGeometry>
         </mxCell>

@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-06-21T04:54:57.737Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.101 Safari/537.36 Edg/91.0.864.48" etag="ShaV-9YEk3x0HzwCWXNK" version="14.8.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-21T05:01:00.356Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.101 Safari/537.36 Edg/91.0.864.48" etag="HBrXmcu4kANcitSc1RJu" version="14.8.0" type="github">
   <diagram id="hWo2aQM5unCId87aPsAW" name="Page-1">
     <mxGraphModel dx="4547" dy="10506" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -6903,10 +6903,10 @@
         <mxCell id="BtiN5w-t-9eblGacO_zV-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="BtiN5w-t-9eblGacO_zV-9" target="BtiN5w-t-9eblGacO_zV-10">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="BtiN5w-t-9eblGacO_zV-9" value="Elasticsearch" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="BtiN5w-t-9eblGacO_zV-9" value="Elasticsearch" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="-2230" y="-7320" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="BtiN5w-t-9eblGacO_zV-10" value="Kibana" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="BtiN5w-t-9eblGacO_zV-10" value="Kibana" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="-2230" y="-7220" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="BtiN5w-t-9eblGacO_zV-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="BtiN5w-t-9eblGacO_zV-11" target="BtiN5w-t-9eblGacO_zV-7">
@@ -6923,7 +6923,7 @@
         <mxCell id="BtiN5w-t-9eblGacO_zV-11" value="Log Exporter" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="-2230" y="-7620" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="BtiN5w-t-9eblGacO_zV-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="BtiN5w-t-9eblGacO_zV-13" target="BtiN5w-t-9eblGacO_zV-14">
+        <mxCell id="BtiN5w-t-9eblGacO_zV-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="1" source="BtiN5w-t-9eblGacO_zV-13" target="BtiN5w-t-9eblGacO_zV-14">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="BtiN5w-t-9eblGacO_zV-13" value="Databus Agent" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -6963,6 +6963,52 @@
         </mxCell>
         <mxCell id="BtiN5w-t-9eblGacO_zV-33" value="Skynet Log API" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="-2020" y="-7971" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BtiN5w-t-9eblGacO_zV-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="BtiN5w-t-9eblGacO_zV-36" target="BtiN5w-t-9eblGacO_zV-38">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-2230" y="-6810" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BtiN5w-t-9eblGacO_zV-36" value="OpenTelemetry API" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="-2290" y="-6970" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BtiN5w-t-9eblGacO_zV-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="BtiN5w-t-9eblGacO_zV-38" target="BtiN5w-t-9eblGacO_zV-40">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-2230" y="-6710" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BtiN5w-t-9eblGacO_zV-38" value="OpenTelemetry Agent" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="-2290" y="-6850" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BtiN5w-t-9eblGacO_zV-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="BtiN5w-t-9eblGacO_zV-40" target="BtiN5w-t-9eblGacO_zV-42">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-2230" y="-6630" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BtiN5w-t-9eblGacO_zV-40" value="Prometheus" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-2290" y="-6740" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BtiN5w-t-9eblGacO_zV-42" value="Grafana" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="-2290" y="-6630" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BtiN5w-t-9eblGacO_zV-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="BtiN5w-t-9eblGacO_zV-43" target="BtiN5w-t-9eblGacO_zV-45">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-2070" y="-6850" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BtiN5w-t-9eblGacO_zV-43" value="SkynetMonitor API" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="-2130" y="-6970" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BtiN5w-t-9eblGacO_zV-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" edge="1" parent="1" source="BtiN5w-t-9eblGacO_zV-45" target="BtiN5w-t-9eblGacO_zV-47">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-2070" y="-6640" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BtiN5w-t-9eblGacO_zV-45" value="SkynetMonitor Agent" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="-2130" y="-6850" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BtiN5w-t-9eblGacO_zV-47" value="Skynet" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-2130" y="-6630" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

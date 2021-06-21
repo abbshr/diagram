@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-06-21T13:34:39.604Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.101 Safari/537.36 Edg/91.0.864.48" etag="nmf-b1zAoKPWpp9KERQQ" version="14.8.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-21T13:35:09.090Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.101 Safari/537.36 Edg/91.0.864.48" etag="nIpQyUA5J20ehv2HU0u_" version="14.8.0" type="github">
   <diagram id="hWo2aQM5unCId87aPsAW" name="Page-1">
     <mxGraphModel dx="4547" dy="10506" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -7119,11 +7119,11 @@
         <mxCell id="0YFOe8ASSqdqZFvWe57i-19" value="" style="rounded=1;arcSize=10;dashed=0;fillColor=none;gradientColor=none;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="-2150" y="-6990" width="430" height="580" as="geometry" />
         </mxCell>
-        <mxCell id="0YFOe8ASSqdqZFvWe57i-23" value="Old Style" style="dashed=0;html=1;fillColor=#F0F2F5;strokeColor=none;align=center;rounded=1;arcSize=10;fontColor=#596780;fontStyle=1;fontSize=11;shadow=0" vertex="1" parent="1">
-          <mxGeometry x="-2030" y="-8010" width="60" height="20" as="geometry" />
+        <mxCell id="0YFOe8ASSqdqZFvWe57i-23" value="Old Log Style" style="dashed=0;html=1;fillColor=#F0F2F5;strokeColor=none;align=center;rounded=1;arcSize=10;fontColor=#596780;fontStyle=1;fontSize=11;shadow=0" vertex="1" parent="1">
+          <mxGeometry x="-2030" y="-8010" width="90" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="0YFOe8ASSqdqZFvWe57i-24" value="Biz" style="dashed=0;html=1;fillColor=#F0F2F5;strokeColor=none;align=center;rounded=1;arcSize=10;fontColor=#596780;fontStyle=1;fontSize=11;shadow=0" vertex="1" parent="1">
-          <mxGeometry x="-2110" y="-7010" width="60" height="20" as="geometry" />
+        <mxCell id="0YFOe8ASSqdqZFvWe57i-24" value="Biz Metrics Monitor" style="dashed=0;html=1;fillColor=#F0F2F5;strokeColor=none;align=center;rounded=1;arcSize=10;fontColor=#596780;fontStyle=1;fontSize=11;shadow=0" vertex="1" parent="1">
+          <mxGeometry x="-2110" y="-7010" width="130" height="20" as="geometry" />
         </mxCell>
         <mxCell id="0YFOe8ASSqdqZFvWe57i-26" value="alert" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-1810" y="-7220" width="120" height="60" as="geometry" />

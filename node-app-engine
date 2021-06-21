@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-06-21T13:31:23.664Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.101 Safari/537.36 Edg/91.0.864.48" etag="62SKXyDyKRxiXwlkDcLG" version="14.8.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-21T13:33:23.806Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.101 Safari/537.36 Edg/91.0.864.48" etag="J5rCMfHahqU9UgMnUKeZ" version="14.8.0" type="github">
   <diagram id="hWo2aQM5unCId87aPsAW" name="Page-1">
     <mxGraphModel dx="4547" dy="10506" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -6904,6 +6904,11 @@
             <mxPoint x="-2310" y="-7830" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="0YFOe8ASSqdqZFvWe57i-22" value="dev environment" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="0YFOe8ASSqdqZFvWe57i-12">
+          <mxGeometry x="0.4375" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="BtiN5w-t-9eblGacO_zV-1" value="Log API" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="-2230" y="-7971" width="120" height="60" as="geometry" />
         </mxCell>
@@ -7102,7 +7107,13 @@
           <mxGeometry x="-2150" y="-6990" width="430" height="580" as="geometry" />
         </mxCell>
         <mxCell id="0YFOe8ASSqdqZFvWe57i-21" value="" style="rounded=1;arcSize=10;dashed=0;fillColor=none;gradientColor=none;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="-2040.5" y="-8004" width="160.5" height="864" as="geometry" />
+          <mxGeometry x="-2040.5" y="-7990" width="160.5" height="850" as="geometry" />
+        </mxCell>
+        <mxCell id="0YFOe8ASSqdqZFvWe57i-23" value="Old Style" style="dashed=0;html=1;fillColor=#F0F2F5;strokeColor=none;align=center;rounded=1;arcSize=10;fontColor=#596780;fontStyle=1;fontSize=11;shadow=0" vertex="1" parent="1">
+          <mxGeometry x="-2030" y="-8010" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="0YFOe8ASSqdqZFvWe57i-24" value="Biz" style="dashed=0;html=1;fillColor=#F0F2F5;strokeColor=none;align=center;rounded=1;arcSize=10;fontColor=#596780;fontStyle=1;fontSize=11;shadow=0" vertex="1" parent="1">
+          <mxGeometry x="-2110" y="-7010" width="60" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

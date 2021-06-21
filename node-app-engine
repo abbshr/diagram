@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-06-21T04:47:23.986Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.101 Safari/537.36 Edg/91.0.864.48" etag="_CjBE3s2fPe-euMzUewG" version="14.8.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-21T04:51:56.643Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.101 Safari/537.36 Edg/91.0.864.48" etag="MlcCWP3137xu6wXRpipW" version="14.8.0" type="github">
   <diagram id="hWo2aQM5unCId87aPsAW" name="Page-1">
     <mxGraphModel dx="4547" dy="10506" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -6879,25 +6879,13 @@
         <mxCell id="heqHeNy8EVSI1JCXgaER-3" value="业务需求" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-1078.25" y="-6660" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="BtiN5w-t-9eblGacO_zV-1" value="Log API" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-2230" y="-7945" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="BtiN5w-t-9eblGacO_zV-2" value="Files" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-2240" y="-7840" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="BtiN5w-t-9eblGacO_zV-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="BtiN5w-t-9eblGacO_zV-3" target="BtiN5w-t-9eblGacO_zV-5">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="BtiN5w-t-9eblGacO_zV-3" value="Files" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-2230" y="-7830" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="BtiN5w-t-9eblGacO_zV-4" value="Local Log Files" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-2220" y="-7820" width="120" height="60" as="geometry" />
+        <mxCell id="BtiN5w-t-9eblGacO_zV-1" value="Log API" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="-2230" y="-7971" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="BtiN5w-t-9eblGacO_zV-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="BtiN5w-t-9eblGacO_zV-5" target="BtiN5w-t-9eblGacO_zV-11">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="BtiN5w-t-9eblGacO_zV-5" value="Log Collector" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="BtiN5w-t-9eblGacO_zV-5" value="Log Collector" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="-2230" y="-7712" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="BtiN5w-t-9eblGacO_zV-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="BtiN5w-t-9eblGacO_zV-7" target="BtiN5w-t-9eblGacO_zV-8">
@@ -6909,28 +6897,60 @@
         <mxCell id="BtiN5w-t-9eblGacO_zV-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="BtiN5w-t-9eblGacO_zV-8" target="BtiN5w-t-9eblGacO_zV-9">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="BtiN5w-t-9eblGacO_zV-8" value="Log Exporter" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="BtiN5w-t-9eblGacO_zV-8" value="Log Exporter" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="-2230" y="-7420" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BtiN5w-t-9eblGacO_zV-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="BtiN5w-t-9eblGacO_zV-9" target="BtiN5w-t-9eblGacO_zV-10">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="BtiN5w-t-9eblGacO_zV-9" value="Elasticsearch" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-2230" y="-7320" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="BtiN5w-t-9eblGacO_zV-10" value="Kibana" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="BtiN5w-t-9eblGacO_zV-10" value="Kibana" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="-2230" y="-7220" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="BtiN5w-t-9eblGacO_zV-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="BtiN5w-t-9eblGacO_zV-11" target="BtiN5w-t-9eblGacO_zV-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="BtiN5w-t-9eblGacO_zV-11" value="Log Importer" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="BtiN5w-t-9eblGacO_zV-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="BtiN5w-t-9eblGacO_zV-11" target="BtiN5w-t-9eblGacO_zV-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BtiN5w-t-9eblGacO_zV-24" value="Biz App" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="BtiN5w-t-9eblGacO_zV-23">
+          <mxGeometry x="-0.2601" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BtiN5w-t-9eblGacO_zV-11" value="Log Importer" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="-2230" y="-7620" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="BtiN5w-t-9eblGacO_zV-13" value="Databus Agent" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-2067" y="-7620" width="120" height="60" as="geometry" />
+        <mxCell id="BtiN5w-t-9eblGacO_zV-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="BtiN5w-t-9eblGacO_zV-13" target="BtiN5w-t-9eblGacO_zV-14">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="BtiN5w-t-9eblGacO_zV-14" value="Skynet" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="BtiN5w-t-9eblGacO_zV-13" value="Databus Agent" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-2067" y="-7520" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="BtiN5w-t-9eblGacO_zV-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="BtiN5w-t-9eblGacO_zV-1" target="BtiN5w-t-9eblGacO_zV-3">
+        <mxCell id="BtiN5w-t-9eblGacO_zV-14" value="Skynet" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-2067" y="-7220" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BtiN5w-t-9eblGacO_zV-25" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-2380" y="-7540" as="sourcePoint" />
+            <mxPoint x="-1790" y="-7540" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BtiN5w-t-9eblGacO_zV-26" value="Local Log&lt;br&gt;Files" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="-2220" y="-7869" width="80" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="BtiN5w-t-9eblGacO_zV-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="BtiN5w-t-9eblGacO_zV-27" target="BtiN5w-t-9eblGacO_zV-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BtiN5w-t-9eblGacO_zV-27" value="Local Log&lt;br&gt;Files" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="-2210" y="-7859" width="80" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="BtiN5w-t-9eblGacO_zV-28" value="Local Log&lt;br&gt;Files" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="-2200" y="-7849" width="80" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="BtiN5w-t-9eblGacO_zV-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="BtiN5w-t-9eblGacO_zV-1" target="BtiN5w-t-9eblGacO_zV-27">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>

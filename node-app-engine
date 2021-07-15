@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-07-15T06:04:06.114Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.101 Safari/537.36 Edg/91.0.864.48" etag="os2ACSik_jcjF5vbkh8z" version="14.8.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-15T08:43:22.383Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.101 Safari/537.36 Edg/91.0.864.48" etag="q8YuDmfa7Xula2zOevJb" version="14.8.6" type="github">
   <diagram id="hWo2aQM5unCId87aPsAW" name="Page-1">
-    <mxGraphModel dx="3594" dy="10074" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3832" dy="10229" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2778,9 +2778,6 @@
         <mxCell id="trIJHDntLO7M7negwdeg-105" value="ops: ae-developer-platform" style="dashed=0;html=1;fillColor=#F0F2F5;strokeColor=none;align=center;rounded=1;arcSize=10;fontColor=#596780;fontStyle=1;fontSize=11;shadow=0" parent="1" vertex="1">
           <mxGeometry x="4702" y="1191.9" width="167" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="trIJHDntLO7M7negwdeg-112" value="有状态" style="dashed=0;html=1;fillColor=#F0F2F5;strokeColor=none;align=center;rounded=1;arcSize=10;fontColor=#3384FF;fontStyle=1;fontSize=11;shadow=0" parent="1" vertex="1">
-          <mxGeometry x="4779.5" y="2156.4" width="60" height="20" as="geometry" />
-        </mxCell>
         <mxCell id="trIJHDntLO7M7negwdeg-113" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" parent="1" vertex="1">
           <mxGeometry x="4479.5" y="1326.4" width="360" height="800" as="geometry" />
         </mxCell>
@@ -2853,11 +2850,8 @@
         <mxCell id="trIJHDntLO7M7negwdeg-133" value="" style="rounded=1;arcSize=10;dashed=0;fillColor=none;gradientColor=none;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="4919" y="1286.4" width="441" height="890" as="geometry" />
         </mxCell>
-        <mxCell id="trIJHDntLO7M7negwdeg-134" value="AE 容器集群 - &amp;lt;name&amp;gt;" style="dashed=0;html=1;fillColor=#F0F2F5;strokeColor=none;align=center;rounded=1;arcSize=10;fontColor=#596780;fontStyle=1;fontSize=11;shadow=0" parent="1" vertex="1">
+        <mxCell id="trIJHDntLO7M7negwdeg-134" value="AE 负载集群 - &amp;lt;name&amp;gt;" style="dashed=0;html=1;fillColor=#F0F2F5;strokeColor=none;align=center;rounded=1;arcSize=10;fontColor=#596780;fontStyle=1;fontSize=11;shadow=0" parent="1" vertex="1">
           <mxGeometry x="5103.5" y="2156.4" width="140.5" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="trIJHDntLO7M7negwdeg-135" value="有状态" style="dashed=0;html=1;fillColor=#F0F2F5;strokeColor=none;align=center;rounded=1;arcSize=10;fontColor=#3384FF;fontStyle=1;fontSize=11;shadow=0" parent="1" vertex="1">
-          <mxGeometry x="5259.5" y="2156.4" width="60" height="20" as="geometry" />
         </mxCell>
         <mxCell id="trIJHDntLO7M7negwdeg-136" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" parent="1" vertex="1">
           <mxGeometry x="4959.5" y="1326.4" width="360" height="800" as="geometry" />

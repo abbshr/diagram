@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-08-31T09:18:12.901Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.159 Safari/537.36 Edg/92.0.902.84" etag="_pWHi-oJQkssyqMVe0F3" version="14.9.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-08-31T09:24:59.287Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.159 Safari/537.36 Edg/92.0.902.84" etag="inDW-nrGLlGV6TvepNM5" version="14.9.6" type="github">
   <diagram id="1cU8Kn81C9xYrAXX23-p" name="Page-1">
     <mxGraphModel dx="2066" dy="1154" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -984,19 +984,19 @@
         <mxCell id="hc0aD-OV23FIdrOxoGYr-11" value="HouseKeeper" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="3135.24" y="110" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="hc0aD-OV23FIdrOxoGYr-14" value="HouseKeeper" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2700" y="510" width="390" height="60" as="geometry" />
+        <mxCell id="hc0aD-OV23FIdrOxoGYr-14" value="HouseKeeper" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="3180" y="550" width="390" height="60" as="geometry" />
         </mxCell>
         <mxCell id="hc0aD-OV23FIdrOxoGYr-15" value="进程管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2700" y="440" width="120" height="60" as="geometry" />
+          <mxGeometry x="3180" y="480" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="hc0aD-OV23FIdrOxoGYr-16" value="消息周转" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2834.73" y="440" width="120" height="60" as="geometry" />
+          <mxGeometry x="3314.73" y="480" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="hc0aD-OV23FIdrOxoGYr-17" value="会话管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2970" y="440" width="120" height="60" as="geometry" />
+          <mxGeometry x="3450" y="480" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="hc0aD-OV23FIdrOxoGYr-19" value="DispatchCenter Node" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="hc0aD-OV23FIdrOxoGYr-19" value="DispatchCenter Node" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="2700" y="802" width="390" height="60" as="geometry" />
         </mxCell>
         <mxCell id="hc0aD-OV23FIdrOxoGYr-20" value="指令编排" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -1011,116 +1011,80 @@
         <mxCell id="hc0aD-OV23FIdrOxoGYr-23" value="统筹调度" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="3000" y="730" width="90" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="hc0aD-OV23FIdrOxoGYr-26" value="Unify Node Layer" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="hc0aD-OV23FIdrOxoGYr-26" value="Unify Node Layer" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="2699.24" y="870" width="390" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="hc0aD-OV23FIdrOxoGYr-27" value="Crate Node" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="hc0aD-OV23FIdrOxoGYr-27" value="Crate Node" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;" vertex="1" parent="1">
           <mxGeometry x="2700.76" y="1082" width="390" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="hc0aD-OV23FIdrOxoGYr-28" value="指令编排" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="hc0aD-OV23FIdrOxoGYr-28" value="服务托管" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2700.76" y="1010" width="90" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="hc0aD-OV23FIdrOxoGYr-29" value="成员管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2800.76" y="1010" width="90" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="hc0aD-OV23FIdrOxoGYr-30" value="元数据管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2900.76" y="1010" width="90" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="hc0aD-OV23FIdrOxoGYr-31" value="统筹调度" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="3000.76" y="1010" width="90" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="hc0aD-OV23FIdrOxoGYr-32" value="Unify Node Layer" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="hc0aD-OV23FIdrOxoGYr-32" value="Unify Node Layer" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="2700" y="1150" width="390" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="hc0aD-OV23FIdrOxoGYr-33" value="Gateway Node" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="hc0aD-OV23FIdrOxoGYr-33" value="Gateway Node" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;" vertex="1" parent="1">
           <mxGeometry x="2700.76" y="1352" width="390" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="hc0aD-OV23FIdrOxoGYr-34" value="指令编排" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="hc0aD-OV23FIdrOxoGYr-37" value="流量调度" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2700.76" y="1280" width="90" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="hc0aD-OV23FIdrOxoGYr-35" value="成员管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2800.76" y="1280" width="90" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="hc0aD-OV23FIdrOxoGYr-36" value="元数据管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2900.76" y="1280" width="90" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="hc0aD-OV23FIdrOxoGYr-37" value="统筹调度" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="3000.76" y="1280" width="90" height="60" as="geometry" />
         </mxCell>
         <mxCell id="hc0aD-OV23FIdrOxoGYr-38" value="Unify Node Layer" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2700" y="1420" width="390" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="hc0aD-OV23FIdrOxoGYr-39" value="Logger Node" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="hc0aD-OV23FIdrOxoGYr-39" value="Logger Node" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="3210.76" y="802" width="390" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="hc0aD-OV23FIdrOxoGYr-40" value="指令编排" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="hc0aD-OV23FIdrOxoGYr-40" value="日志处理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="3210.76" y="730" width="90" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="hc0aD-OV23FIdrOxoGYr-41" value="成员管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="hc0aD-OV23FIdrOxoGYr-41" value="日志上报" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="3310.76" y="730" width="90" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="hc0aD-OV23FIdrOxoGYr-42" value="元数据管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="hc0aD-OV23FIdrOxoGYr-42" value="日志采集" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="3410.76" y="730" width="90" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="hc0aD-OV23FIdrOxoGYr-43" value="统筹调度" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="hc0aD-OV23FIdrOxoGYr-43" value="日志清理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="3510.76" y="730" width="90" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="hc0aD-OV23FIdrOxoGYr-44" value="Unify Node Layer" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="hc0aD-OV23FIdrOxoGYr-44" value="Unify Node Layer" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="3210" y="870" width="390" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="hc0aD-OV23FIdrOxoGYr-45" value="Downloader Node" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="hc0aD-OV23FIdrOxoGYr-45" value="Downloader Node" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffcccc;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="3209.2400000000002" y="1082" width="390" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="hc0aD-OV23FIdrOxoGYr-46" value="指令编排" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="hc0aD-OV23FIdrOxoGYr-46" value="数据接收" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="3209.2400000000002" y="1010" width="90" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="hc0aD-OV23FIdrOxoGYr-47" value="成员管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="hc0aD-OV23FIdrOxoGYr-47" value="资源下载" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="3309.2400000000002" y="1010" width="90" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="hc0aD-OV23FIdrOxoGYr-48" value="元数据管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="3409.2400000000002" y="1010" width="90" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="hc0aD-OV23FIdrOxoGYr-49" value="统筹调度" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="3509.2400000000002" y="1010" width="90" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="hc0aD-OV23FIdrOxoGYr-50" value="Unify Node Layer" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="hc0aD-OV23FIdrOxoGYr-50" value="Unify Node Layer" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="3208.48" y="1150" width="390" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="hc0aD-OV23FIdrOxoGYr-51" value="NetworkPartitionGuard Node" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="hc0aD-OV23FIdrOxoGYr-51" value="NetworkPartitionGuard Node" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;" vertex="1" parent="1">
           <mxGeometry x="3210.0000000000005" y="1352" width="390" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="hc0aD-OV23FIdrOxoGYr-52" value="指令编排" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="hc0aD-OV23FIdrOxoGYr-52" value="网络质量探测" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="3210.0000000000005" y="1280" width="90" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="hc0aD-OV23FIdrOxoGYr-53" value="成员管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="3310.0000000000005" y="1280" width="90" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="hc0aD-OV23FIdrOxoGYr-54" value="元数据管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="3410.0000000000005" y="1280" width="90" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="hc0aD-OV23FIdrOxoGYr-55" value="统筹调度" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="3510.0000000000005" y="1280" width="90" height="60" as="geometry" />
         </mxCell>
         <mxCell id="hc0aD-OV23FIdrOxoGYr-56" value="Unify Node Layer" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="3209.2400000000002" y="1420" width="390" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="hc0aD-OV23FIdrOxoGYr-57" value="Monitor Node" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="hc0aD-OV23FIdrOxoGYr-57" value="Monitor Node" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="3722.76" y="802" width="390" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="hc0aD-OV23FIdrOxoGYr-58" value="指令编排" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="hc0aD-OV23FIdrOxoGYr-58" value="指标收集" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="3722.76" y="730" width="90" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="hc0aD-OV23FIdrOxoGYr-59" value="成员管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="hc0aD-OV23FIdrOxoGYr-59" value="指标上报" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="3822.76" y="730" width="90" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="hc0aD-OV23FIdrOxoGYr-60" value="元数据管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="3922.76" y="730" width="90" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="hc0aD-OV23FIdrOxoGYr-61" value="统筹调度" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="4022.76" y="730" width="90" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="hc0aD-OV23FIdrOxoGYr-62" value="Unify Node Layer" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="hc0aD-OV23FIdrOxoGYr-62" value="Unify Node Layer" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="3722" y="870" width="390" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hc0aD-OV23FIdrOxoGYr-63" value="实例管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2800" y="1010" width="90" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-08-31T09:11:19.179Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.159 Safari/537.36 Edg/92.0.902.84" etag="dybUaz3qh4biObVJBF3t" version="14.9.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-08-31T09:13:17.919Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.159 Safari/537.36 Edg/92.0.902.84" etag="DdjxFB6RJv_r8OOG6YWn" version="14.9.6" type="github">
   <diagram id="1cU8Kn81C9xYrAXX23-p" name="Page-1">
     <mxGraphModel dx="2066" dy="1154" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -995,6 +995,18 @@
         </mxCell>
         <mxCell id="hc0aD-OV23FIdrOxoGYr-17" value="会话管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2970" y="440" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hc0aD-OV23FIdrOxoGYr-19" value="DispatchCenter" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2700" y="802" width="390" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hc0aD-OV23FIdrOxoGYr-20" value="注册受理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2700" y="730" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hc0aD-OV23FIdrOxoGYr-21" value="成员管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2835" y="730" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hc0aD-OV23FIdrOxoGYr-22" value="元数据管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2970" y="730" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

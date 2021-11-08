@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-11-08T05:57:52.792Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36 Edg/95.0.1020.44" etag="NMRbnpO463KnSFhvcigH" version="15.7.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-08T05:58:13.212Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36 Edg/95.0.1020.44" etag="bLc-EFAmvM6K96-L4Dml" version="15.7.0" type="github">
   <diagram id="1cU8Kn81C9xYrAXX23-p" name="Page-1">
     <mxGraphModel dx="2066" dy="2323" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -686,7 +686,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="rXD4SJhP4pR2uc0xvY0N-45" value="ae-eh" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/basic-ui-2-line/32/bell-notification-notify-reminder-ring-128.png" parent="1" vertex="1">
+        <mxCell id="rXD4SJhP4pR2uc0xvY0N-45" value="事件中枢" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/basic-ui-2-line/32/bell-notification-notify-reminder-ring-128.png" parent="1" vertex="1">
           <mxGeometry x="2322.75" y="481" width="68" height="68" as="geometry" />
         </mxCell>
         <mxCell id="OaDO44GyGprE6vBCjixd-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;" parent="1" source="OaDO44GyGprE6vBCjixd-87" target="OaDO44GyGprE6vBCjixd-3" edge="1">

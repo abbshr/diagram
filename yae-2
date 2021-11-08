@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-11-08T06:02:06.009Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36 Edg/95.0.1020.44" etag="A86ugEWSCyzMICdhHQ18" version="15.7.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-08T06:02:12.068Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36 Edg/95.0.1020.44" etag="sj8POrly6G5_YW-9-BP3" version="15.7.0" type="github">
   <diagram id="1cU8Kn81C9xYrAXX23-p" name="Page-1">
     <mxGraphModel dx="1425" dy="1965" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -674,7 +674,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="rXD4SJhP4pR2uc0xvY0N-36" value="admin" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/pinpoint-interface/48/ajax-admin-128.png" parent="1" vertex="1">
+        <mxCell id="rXD4SJhP4pR2uc0xvY0N-36" value="管理员" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/pinpoint-interface/48/ajax-admin-128.png" parent="1" vertex="1">
           <mxGeometry x="2044.74" y="75" width="70" height="70" as="geometry" />
         </mxCell>
         <mxCell id="rXD4SJhP4pR2uc0xvY0N-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.67;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;strokeColor=#3399FF;" parent="1" source="rXD4SJhP4pR2uc0xvY0N-38" target="rXD4SJhP4pR2uc0xvY0N-11" edge="1">

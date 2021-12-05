@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-12-05T14:57:42.587Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.55 Safari/537.36 Edg/96.0.1054.43" etag="Ur3R4m4fvweFgBCFLwN9" version="15.0.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-05T15:04:19.313Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.55 Safari/537.36 Edg/96.0.1054.43" etag="LJV1t6KAMJSc1V3mUNOJ" version="15.0.6" type="github">
   <diagram id="1cU8Kn81C9xYrAXX23-p" name="Page-1">
     <mxGraphModel dx="1351" dy="4384" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -2120,7 +2120,7 @@
         <mxCell id="dRc3QTxMTRr0Xyhjeye_-19" value="Strategy Group" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1468.39" y="-3035.5" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="dRc3QTxMTRr0Xyhjeye_-23" value="Engine&lt;br&gt;(Optimizator)" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="dRc3QTxMTRr0Xyhjeye_-23" value="Engine&lt;br&gt;(Optimizator&lt;br&gt;&amp;amp; Interpreter)" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="1468.39" y="-2935.5" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="dRc3QTxMTRr0Xyhjeye_-26" value="Rule" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">

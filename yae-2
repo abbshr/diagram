@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-12-20T08:19:31.371Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.93 Safari/537.36 Edg/96.0.1054.53" etag="8GkFT7OUmgJn5e0cGJKI" version="16.0.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-20T08:19:43.793Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.93 Safari/537.36 Edg/96.0.1054.53" etag="YGhqPZWlNLLZXeq8UuFo" version="16.0.0" type="github">
   <diagram id="1cU8Kn81C9xYrAXX23-p" name="Page-1">
     <mxGraphModel dx="2296" dy="4789" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -2354,7 +2354,7 @@
         <mxCell id="av1iZasWxPecEu50nrjh-21" value="vm 初始化" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="3078.2099999999996" y="-2020" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="av1iZasWxPecEu50nrjh-22" value="兼容的 ABI" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="av1iZasWxPecEu50nrjh-22" value="兼容的 ABI 和 API" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="3078.2099999999996" y="-2090" width="120" height="60" as="geometry" />
         </mxCell>
       </root>

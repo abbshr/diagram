@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-12-20T08:36:15.121Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.93 Safari/537.36 Edg/96.0.1054.53" etag="NOIzX3M7OgnMsamKdpxn" version="16.0.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-20T08:38:11.882Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.93 Safari/537.36 Edg/96.0.1054.53" etag="byYfjxZGbFmNDvOiUUt1" version="16.0.0" type="github">
   <diagram id="1cU8Kn81C9xYrAXX23-p" name="Page-1">
     <mxGraphModel dx="2066" dy="4661" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -2346,16 +2346,16 @@
           <mxGeometry x="2574.62" y="-2139" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="av1iZasWxPecEu50nrjh-19" value="预取依赖和运行时" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="2820.3799999999997" y="-2020" width="120" height="60" as="geometry" />
+          <mxGeometry x="2820.3799999999997" y="-1999" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="av1iZasWxPecEu50nrjh-20" value="选择依赖版本" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="2820.3799999999997" y="-2090" width="120" height="60" as="geometry" />
+          <mxGeometry x="2820.3799999999997" y="-2069" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="av1iZasWxPecEu50nrjh-21" value="vm 初始化" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="3064.24" y="-2020" width="120" height="60" as="geometry" />
+          <mxGeometry x="3065.1099999999997" y="-1999" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="av1iZasWxPecEu50nrjh-22" value="兼容的 ABI 和 API" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="3064.24" y="-2090" width="120" height="60" as="geometry" />
+          <mxGeometry x="3065.1099999999997" y="-2069" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="av1iZasWxPecEu50nrjh-23" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;fontSize=15;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -2370,10 +2370,10 @@
           <mxGeometry x="1660" y="-1901.5" width="181.04" height="39" as="geometry" />
         </mxCell>
         <mxCell id="7XEPOE3h3cnk_u4pnpMx-1" value="依赖版本切换" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="3200.49" y="-2090" width="120" height="60" as="geometry" />
+          <mxGeometry x="3065.1099999999997" y="-2139" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="7XEPOE3h3cnk_u4pnpMx-2" value="基础库灰度切换" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="3200.49" y="-2020" width="120" height="60" as="geometry" />
+        <mxCell id="7XEPOE3h3cnk_u4pnpMx-2" value="版本切换" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2820.3799999999997" y="-2139" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

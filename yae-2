@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-12-20T08:38:28.389Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.93 Safari/537.36 Edg/96.0.1054.53" etag="K4ER4aV-n-uJTvhyuaop" version="16.0.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-20T10:03:53.454Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.93 Safari/537.36 Edg/96.0.1054.53" etag="bYUxkf-kEIryDQ-Uwa6u" version="16.0.0" type="github">
   <diagram id="1cU8Kn81C9xYrAXX23-p" name="Page-1">
     <mxGraphModel dx="2066" dy="4661" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -2369,11 +2369,51 @@
         <mxCell id="av1iZasWxPecEu50nrjh-25" value="Lifetime" style="dashed=0;html=1;fillColor=#F0F2F5;strokeColor=none;align=center;rounded=1;arcSize=10;fontColor=#596780;fontStyle=1;fontSize=15;shadow=0" parent="1" vertex="1">
           <mxGeometry x="1660" y="-1901.5" width="181.04" height="39" as="geometry" />
         </mxCell>
-        <mxCell id="7XEPOE3h3cnk_u4pnpMx-1" value="版本切换" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="7XEPOE3h3cnk_u4pnpMx-1" value="版本切换" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="3065.1099999999997" y="-2139" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="7XEPOE3h3cnk_u4pnpMx-2" value="灰度版本切换" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="7XEPOE3h3cnk_u4pnpMx-2" value="灰度版本切换" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="2820.3799999999997" y="-2139" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wMGBFKGFiufiPHEHY8sj-2" value="Local Dev" style="dashed=0;html=1;fillColor=#F0F2F5;strokeColor=none;align=center;rounded=1;arcSize=10;fontColor=#596780;fontStyle=1;fontSize=15;shadow=0" vertex="1" parent="1">
+          <mxGeometry x="1660" y="-1680" width="181.04" height="39" as="geometry" />
+        </mxCell>
+        <mxCell id="wMGBFKGFiufiPHEHY8sj-5" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="wMGBFKGFiufiPHEHY8sj-3" target="wMGBFKGFiufiPHEHY8sj-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wMGBFKGFiufiPHEHY8sj-18" value="create &amp;amp; control" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="wMGBFKGFiufiPHEHY8sj-5">
+          <mxGeometry x="0.0551" y="-3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wMGBFKGFiufiPHEHY8sj-3" value="HK" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1910" y="-1590" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wMGBFKGFiufiPHEHY8sj-4" value="CT" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1790" y="-1480" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wMGBFKGFiufiPHEHY8sj-12" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1800" y="-1350" as="sourcePoint" />
+            <mxPoint x="1840" y="-1400" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wMGBFKGFiufiPHEHY8sj-13" value="Biz Code" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
+          <mxGeometry x="1739" y="-1340" width="91" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="wMGBFKGFiufiPHEHY8sj-14" value="- hk run as dev mode&lt;br&gt;-&amp;nbsp;" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.text.stickyNote2;fontColor=#666666;mainText=;fontSize=17;whiteSpace=wrap;fillColor=#ffffcc;strokeColor=#F62E00;" vertex="1" parent="1">
+          <mxGeometry x="2181.99" y="-1540" width="200" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="wMGBFKGFiufiPHEHY8sj-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="wMGBFKGFiufiPHEHY8sj-15" target="wMGBFKGFiufiPHEHY8sj-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wMGBFKGFiufiPHEHY8sj-17" value="create &amp;amp; Control" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="wMGBFKGFiufiPHEHY8sj-16">
+          <mxGeometry x="-0.1402" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wMGBFKGFiufiPHEHY8sj-15" value="Lite DC (ae-cli)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="2057.75" y="-1690.5" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

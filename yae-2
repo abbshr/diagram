@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-12-20T08:21:11.356Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.93 Safari/537.36 Edg/96.0.1054.53" etag="c2EcyQXzeKedD4WmUT9Q" version="16.0.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-20T08:22:56.634Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.93 Safari/537.36 Edg/96.0.1054.53" etag="ACXgLZmFutNf2NBBhD9O" version="16.0.0" type="github">
   <diagram id="1cU8Kn81C9xYrAXX23-p" name="Page-1">
     <mxGraphModel dx="2296" dy="4789" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -2289,25 +2289,25 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="av1iZasWxPecEu50nrjh-1" value="本地编码" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1846.75" y="-1920" width="120" height="60" as="geometry" />
+          <mxGeometry x="1831.37" y="-1853" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="av1iZasWxPecEu50nrjh-2" value="TS .d.ts" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#5498F0;strokeColor=#10739e;" vertex="1" parent="1">
-          <mxGeometry x="1846.75" y="-2050" width="120" height="60" as="geometry" />
+          <mxGeometry x="1832.1" y="-2049" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="av1iZasWxPecEu50nrjh-3" value="本地运行" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2337.2899999999995" y="-1920" width="120" height="60" as="geometry" />
+          <mxGeometry x="2321.9099999999994" y="-1853" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="av1iZasWxPecEu50nrjh-4" value="本地构建" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2092.75" y="-1920" width="120" height="60" as="geometry" />
+          <mxGeometry x="2077.37" y="-1853" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="av1iZasWxPecEu50nrjh-5" value="构建" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2589.9999999999995" y="-1920" width="120" height="60" as="geometry" />
+          <mxGeometry x="2574.6199999999994" y="-1853" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="av1iZasWxPecEu50nrjh-6" value="分发" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2835.7599999999993" y="-1920" width="120" height="60" as="geometry" />
+          <mxGeometry x="2820.379999999999" y="-1853" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="av1iZasWxPecEu50nrjh-7" value="加载" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="3080.4899999999993" y="-1920" width="120" height="60" as="geometry" />
+          <mxGeometry x="3065.109999999999" y="-1853" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="av1iZasWxPecEu50nrjh-8" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -2315,11 +2315,11 @@
             <mxPoint x="2790.76" y="-2280" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="av1iZasWxPecEu50nrjh-9" value="Server Context" style="dashed=0;html=1;fillColor=#F0F2F5;strokeColor=none;align=center;rounded=1;arcSize=10;fontColor=#596780;fontStyle=1;fontSize=11;shadow=0" vertex="1" parent="1">
-          <mxGeometry x="2910" y="-2220" width="110" height="20" as="geometry" />
+        <mxCell id="av1iZasWxPecEu50nrjh-9" value="Server Context" style="dashed=0;html=1;fillColor=#F0F2F5;strokeColor=none;align=center;rounded=1;arcSize=10;fontColor=#596780;fontStyle=1;fontSize=15;shadow=0" vertex="1" parent="1">
+          <mxGeometry x="2919.24" y="-2240" width="210" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="av1iZasWxPecEu50nrjh-10" value="Build Context" style="dashed=0;html=1;fillColor=#F0F2F5;strokeColor=none;align=center;rounded=1;arcSize=10;fontColor=#596780;fontStyle=1;fontSize=11;shadow=0" vertex="1" parent="1">
-          <mxGeometry x="2589.24" y="-2220" width="110" height="20" as="geometry" />
+        <mxCell id="av1iZasWxPecEu50nrjh-10" value="Build Context" style="dashed=0;html=1;fillColor=#F0F2F5;strokeColor=none;align=center;rounded=1;arcSize=10;fontColor=#596780;fontStyle=1;fontSize=15;shadow=0" vertex="1" parent="1">
+          <mxGeometry x="2559.62" y="-2240" width="179.24" height="60" as="geometry" />
         </mxCell>
         <mxCell id="av1iZasWxPecEu50nrjh-11" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -2327,35 +2327,41 @@
             <mxPoint x="2479.9999999999995" y="-2290" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="av1iZasWxPecEu50nrjh-12" value="Local Context" style="dashed=0;html=1;fillColor=#F0F2F5;strokeColor=none;align=center;rounded=1;arcSize=10;fontColor=#596780;fontStyle=1;fontSize=11;shadow=0" vertex="1" parent="1">
-          <mxGeometry x="2171.44" y="-2220" width="110" height="20" as="geometry" />
+        <mxCell id="av1iZasWxPecEu50nrjh-12" value="Local Context" style="dashed=0;html=1;fillColor=#F0F2F5;strokeColor=none;align=center;rounded=1;arcSize=10;fontColor=#596780;fontStyle=1;fontSize=15;shadow=0" vertex="1" parent="1">
+          <mxGeometry x="2010" y="-2240" width="271.44" height="60" as="geometry" />
         </mxCell>
         <mxCell id="av1iZasWxPecEu50nrjh-14" value="获取依赖" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2091.75" y="-2050" width="120" height="60" as="geometry" />
+          <mxGeometry x="2077.1" y="-2049" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="av1iZasWxPecEu50nrjh-15" value="工具链 / 运行时" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2337.29" y="-2050" width="120" height="60" as="geometry" />
+          <mxGeometry x="2322.64" y="-2049" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="av1iZasWxPecEu50nrjh-16" value="获取依赖" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2589.24" y="-2070" width="120" height="60" as="geometry" />
+          <mxGeometry x="2574.62" y="-2069" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="av1iZasWxPecEu50nrjh-17" value="裁剪构建/开发依赖" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2589.24" y="-1998" width="120" height="60" as="geometry" />
+          <mxGeometry x="2574.62" y="-1997" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="av1iZasWxPecEu50nrjh-18" value="确定编译生成目标" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2589.24" y="-2140" width="120" height="60" as="geometry" />
+          <mxGeometry x="2574.62" y="-2139" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="av1iZasWxPecEu50nrjh-19" value="预取依赖和运行时" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2835.7599999999998" y="-2020" width="120" height="60" as="geometry" />
+          <mxGeometry x="2820.3799999999997" y="-2020" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="av1iZasWxPecEu50nrjh-20" value="选择依赖版本" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2835.7599999999998" y="-2090" width="120" height="60" as="geometry" />
+          <mxGeometry x="2820.3799999999997" y="-2090" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="av1iZasWxPecEu50nrjh-21" value="vm 初始化" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="3078.2099999999996" y="-2020" width="120" height="60" as="geometry" />
+          <mxGeometry x="3064.24" y="-2020" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="av1iZasWxPecEu50nrjh-22" value="兼容的 ABI 和 API" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="3078.2099999999996" y="-2090" width="120" height="60" as="geometry" />
+          <mxGeometry x="3064.24" y="-2090" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="av1iZasWxPecEu50nrjh-23" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;fontSize=15;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1820" y="-1911" as="sourcePoint" />
+            <mxPoint x="3210" y="-1911" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>

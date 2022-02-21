@@ -1,10 +1,10 @@
-<mxfile host="app.diagrams.net" modified="2022-02-21T10:49:16.094Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36 Edg/97.0.1072.69" etag="vlV7IdBQVD4rqPo3wmgS" version="16.5.6" type="github">
+<mxfile host="app.diagrams.net" modified="2022-02-21T10:53:17.603Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36 Edg/97.0.1072.69" etag="IaSAoYDaT2_herfoXCdX" version="16.5.6" type="github">
   <diagram id="1cU8Kn81C9xYrAXX23-p" name="Page-1">
     <mxGraphModel dx="2066" dy="4661" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="0" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="Mih30vlDdb4fV3ROUn3--45" value="平台增值业务" style="fillColor=none;strokeColor=#D86613;dashed=1;verticalAlign=top;fontStyle=0;fontColor=#D86613;" vertex="1" parent="1">
+        <mxCell id="Mih30vlDdb4fV3ROUn3--45" value="平台增值业务 (未来要纳入基础业务)" style="fillColor=none;strokeColor=#D86613;dashed=1;verticalAlign=top;fontStyle=0;fontColor=#D86613;" vertex="1" parent="1">
           <mxGeometry x="3370.86" y="3780" width="649.14" height="170" as="geometry" />
         </mxCell>
         <mxCell id="Mih30vlDdb4fV3ROUn3--48" value="" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#5A6C86;strokeColor=#999999;fillColor=#5A6C86;" vertex="1" parent="1">

@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-02-21T10:32:03.953Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36 Edg/97.0.1072.69" etag="PDldLJzqb2hbgdSILaTF" version="16.5.6" type="github">
+<mxfile host="app.diagrams.net" modified="2022-02-21T10:34:08.854Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36 Edg/97.0.1072.69" etag="eYsXCjb7Bx_JRRSlj4CD" version="16.5.6" type="github">
   <diagram id="1cU8Kn81C9xYrAXX23-p" name="Page-1">
     <mxGraphModel dx="1148" dy="4148" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="0" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -3396,16 +3396,16 @@
           <mxGeometry x="2981.5399999999995" y="3950" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Mih30vlDdb4fV3ROUn3--12" value="" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#5A6C86;strokeColor=#999999;fillColor=#5A6C86;" vertex="1" parent="1">
-          <mxGeometry x="2640" y="3705" width="500" height="100" as="geometry" />
+          <mxGeometry x="2588.12" y="3705" width="741.88" height="100" as="geometry" />
         </mxCell>
         <mxCell id="Mih30vlDdb4fV3ROUn3--13" value="&lt;font color=&quot;#5a6c86&quot;&gt;平台运维&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#D86613;strokeColor=#999999;fillColor=#9AC7BF;" vertex="1" parent="1">
-          <mxGeometry x="2683.5199999999995" y="3725" width="120" height="60" as="geometry" />
+          <mxGeometry x="2631.6399999999994" y="3725" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Mih30vlDdb4fV3ROUn3--20" value="&lt;font color=&quot;#5a6c86&quot;&gt;发布&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#D86613;strokeColor=#999999;fillColor=#FFD966;" vertex="1" parent="1">
-          <mxGeometry x="2980.5299999999997" y="3725" width="120" height="60" as="geometry" />
+          <mxGeometry x="2797.1899999999996" y="3725" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Mih30vlDdb4fV3ROUn3--22" value="&lt;font color=&quot;#5a6c86&quot;&gt;推流&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#D86613;strokeColor=#999999;fillColor=#FFD966;" vertex="1" parent="1">
-          <mxGeometry x="2832.4399999999996" y="3725" width="120" height="60" as="geometry" />
+          <mxGeometry x="2928.9699999999993" y="3725" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Mih30vlDdb4fV3ROUn3--25" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=#5A6C86;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -3419,7 +3419,7 @@
         <mxCell id="Mih30vlDdb4fV3ROUn3--28" value="" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#5A6C86;strokeColor=#999999;fillColor=#5A6C86;" vertex="1" parent="1">
           <mxGeometry x="2490" y="3520" width="94.94" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Mih30vlDdb4fV3ROUn3--29" value="&lt;font color=&quot;#5a6c86&quot;&gt;依赖核心业务完成的业务&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="Mih30vlDdb4fV3ROUn3--29" value="&lt;font color=&quot;#5a6c86&quot;&gt;依赖 yae 核心完成的业务&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="2585" y="3525" width="150" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Mih30vlDdb4fV3ROUn3--31" value="" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#5A6C86;strokeColor=#999999;fillColor=#9AC7BF;" vertex="1" parent="1">
@@ -3439,6 +3439,12 @@
         </mxCell>
         <mxCell id="Mih30vlDdb4fV3ROUn3--36" value="&lt;font color=&quot;#5a6c86&quot;&gt;yae 核心业务&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="2827.72" y="3525" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Mih30vlDdb4fV3ROUn3--37" value="&lt;font color=&quot;#5a6c86&quot;&gt;调试&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#D86613;strokeColor=#999999;fillColor=#FFD966;" vertex="1" parent="1">
+          <mxGeometry x="3060.93" y="3725" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Mih30vlDdb4fV3ROUn3--38" value="&lt;font color=&quot;#5a6c86&quot;&gt;诊断/剖析&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#D86613;strokeColor=#999999;fillColor=#FFD966;" vertex="1" parent="1">
+          <mxGeometry x="3193.24" y="3725" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

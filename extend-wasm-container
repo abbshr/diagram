@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-15T07:49:51.074Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.39" etag="FJqGvxyovoYk7ItRca6K" version="20.0.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-15T07:50:04.766Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.39" etag="hO1tnnxuzEuTd5CxZvN5" version="20.0.1" type="github">
   <diagram id="qb7vBnzCVleaN_qfJ_12" name="Page-1">
     <mxGraphModel dx="1426" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -21,13 +21,13 @@
         <mxCell id="NprEMNK3kbGIEtV9PHgk-2" value="api-server" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="270" y="430" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="NprEMNK3kbGIEtV9PHgk-3" value="wasm-controller" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="NprEMNK3kbGIEtV9PHgk-3" value="wasm-controller" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="410" y="360" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="NprEMNK3kbGIEtV9PHgk-4" value="wasm-runtime" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="NprEMNK3kbGIEtV9PHgk-4" value="wasm-runtime" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="410" y="430" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="NprEMNK3kbGIEtV9PHgk-5" value="wasm-container" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="NprEMNK3kbGIEtV9PHgk-5" value="wasm-container" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="410" y="500" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="NprEMNK3kbGIEtV9PHgk-7" value="house-keeper" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">

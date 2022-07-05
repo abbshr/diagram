@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-07-05T09:44:45.773Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.66 Safari/537.36 Edg/103.0.1264.44" etag="TaUtRYIlCsGlmoLFzWsT" version="20.0.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-05T09:45:23.228Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.66 Safari/537.36 Edg/103.0.1264.44" etag="wK1PuiUZZYbjTrTT4BIy" version="20.0.1" type="github">
   <diagram id="ApqZX60I4U8o_GcmxlXe" name="Page-1">
-    <mxGraphModel dx="2411" dy="2051" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3996" dy="2933" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -102,16 +102,16 @@
           <mxGeometry x="760" y="-190" width="134" height="33" as="geometry" />
         </mxCell>
         <mxCell id="SKLlscq6EqEZtCj_HPxx-71" value="" style="rounded=1;arcSize=10;fillColor=none;gradientColor=none;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1380" y="120" width="540" height="680" as="geometry" />
+          <mxGeometry x="1371" y="240" width="540" height="680" as="geometry" />
         </mxCell>
         <mxCell id="SKLlscq6EqEZtCj_HPxx-72" value="Common Container Layer (System)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1420" y="715" width="460" height="60" as="geometry" />
+          <mxGeometry x="1411" y="835" width="460" height="60" as="geometry" />
         </mxCell>
         <mxCell id="SKLlscq6EqEZtCj_HPxx-73" value="Proxy" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1420" y="635" width="120" height="60" as="geometry" />
+          <mxGeometry x="1411" y="755" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="SKLlscq6EqEZtCj_HPxx-74" value="Node.js Container" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1560" y="635" width="320" height="60" as="geometry" />
+          <mxGeometry x="1551" y="755" width="320" height="60" as="geometry" />
         </mxCell>
         <mxCell id="SKLlscq6EqEZtCj_HPxx-76" value="数据面 HTTP 流量入口" style="rounded=1;align=center;fillColor=#F1F2F4;strokeColor=none;html=1;fontColor=#596780;fontSize=12" vertex="1" parent="1">
           <mxGeometry x="-349" y="255" width="158" height="33" as="geometry" />
@@ -170,19 +170,19 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="SKLlscq6EqEZtCj_HPxx-85" value="Goofy lite SDK" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1560" y="555" width="320" height="60" as="geometry" />
+          <mxGeometry x="1551" y="675" width="320" height="60" as="geometry" />
         </mxCell>
         <mxCell id="SKLlscq6EqEZtCj_HPxx-86" value="common Framework &amp;amp; libs" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1560" y="475" width="320" height="60" as="geometry" />
+          <mxGeometry x="1551" y="595" width="320" height="60" as="geometry" />
         </mxCell>
         <mxCell id="SKLlscq6EqEZtCj_HPxx-87" value="biz code" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1560" y="399.5" width="320" height="60" as="geometry" />
+          <mxGeometry x="1551" y="519.5" width="320" height="60" as="geometry" />
         </mxCell>
         <mxCell id="SKLlscq6EqEZtCj_HPxx-88" value="" style="rounded=1;arcSize=10;dashed=0;fillColor=none;gradientColor=none;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1550" y="385" width="340" height="160" as="geometry" />
+          <mxGeometry x="1541" y="505" width="340" height="160" as="geometry" />
         </mxCell>
         <mxCell id="SKLlscq6EqEZtCj_HPxx-89" value="Node.js Runtime Stack" style="rounded=1;align=center;fillColor=#F1F2F4;strokeColor=none;html=1;fontColor=#596780;fontSize=12" vertex="1" parent="1">
-          <mxGeometry x="1565.5" y="130" width="169" height="33" as="geometry" />
+          <mxGeometry x="1556.5" y="250" width="169" height="33" as="geometry" />
         </mxCell>
         <mxCell id="SKLlscq6EqEZtCj_HPxx-90" value="ByteFaaS Goofy Runtime" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="720.5" y="760" width="280" height="60" as="geometry" />
@@ -227,22 +227,22 @@
           <mxGeometry x="300" y="600" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="SKLlscq6EqEZtCj_HPxx-114" value="" style="rounded=1;arcSize=10;fillColor=none;gradientColor=none;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1950" y="120" width="540" height="680" as="geometry" />
+          <mxGeometry x="1941" y="240" width="540" height="680" as="geometry" />
         </mxCell>
         <mxCell id="SKLlscq6EqEZtCj_HPxx-115" value="Common Container Layer (System)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1990" y="715" width="460" height="60" as="geometry" />
+          <mxGeometry x="1981" y="835" width="460" height="60" as="geometry" />
         </mxCell>
         <mxCell id="SKLlscq6EqEZtCj_HPxx-117" value="web page container" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1990" y="555" width="460" height="60" as="geometry" />
+          <mxGeometry x="1981" y="675" width="460" height="60" as="geometry" />
         </mxCell>
         <mxCell id="SKLlscq6EqEZtCj_HPxx-122" value="WebPage Runtime Stack" style="rounded=1;align=center;fillColor=#F1F2F4;strokeColor=none;html=1;fontColor=#596780;fontSize=12" vertex="1" parent="1">
-          <mxGeometry x="2135.5" y="130" width="169" height="33" as="geometry" />
+          <mxGeometry x="2126.5" y="250" width="169" height="33" as="geometry" />
         </mxCell>
         <mxCell id="SKLlscq6EqEZtCj_HPxx-123" value="Configures" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1990" y="475" width="120" height="60" as="geometry" />
+          <mxGeometry x="1981" y="595" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="SKLlscq6EqEZtCj_HPxx-124" value="process container (maybe Go/Rust/Node.js)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1990" y="635" width="460" height="60" as="geometry" />
+          <mxGeometry x="1981" y="755" width="460" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-05T09:40:54.923Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.66 Safari/537.36 Edg/103.0.1264.44" etag="n6rwk_LEg_AlDGC1TzuZ" version="20.0.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-05T09:42:23.288Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.66 Safari/537.36 Edg/103.0.1264.44" etag="_Igye986QdGFoM6dqG7U" version="20.0.1" type="github">
   <diagram id="ApqZX60I4U8o_GcmxlXe" name="Page-1">
     <mxGraphModel dx="2505" dy="2103" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -181,16 +181,16 @@
         <mxCell id="SKLlscq6EqEZtCj_HPxx-88" value="" style="rounded=1;arcSize=10;dashed=0;fillColor=none;gradientColor=none;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1550" y="385" width="340" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="SKLlscq6EqEZtCj_HPxx-89" value="Runtime Stack" style="rounded=1;align=center;fillColor=#F1F2F4;strokeColor=none;html=1;fontColor=#596780;fontSize=12" vertex="1" parent="1">
-          <mxGeometry x="1591" y="130" width="118" height="33" as="geometry" />
+        <mxCell id="SKLlscq6EqEZtCj_HPxx-89" value="ByteFaaS Runtime Stack" style="rounded=1;align=center;fillColor=#F1F2F4;strokeColor=none;html=1;fontColor=#596780;fontSize=12" vertex="1" parent="1">
+          <mxGeometry x="1565.5" y="130" width="169" height="33" as="geometry" />
         </mxCell>
-        <mxCell id="SKLlscq6EqEZtCj_HPxx-90" value="ByteFaaS Goofy Runtime" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="SKLlscq6EqEZtCj_HPxx-90" value="ByteFaaS Goofy Runtime" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="720.5" y="760" width="280" height="60" as="geometry" />
         </mxCell>
         <mxCell id="SKLlscq6EqEZtCj_HPxx-97" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;startArrow=none;startFill=0;strokeColor=#000000;strokeWidth=1;dashed=1;" edge="1" parent="1" source="SKLlscq6EqEZtCj_HPxx-91" target="SKLlscq6EqEZtCj_HPxx-96">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="SKLlscq6EqEZtCj_HPxx-91" value="TCE Goofy Runtime" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="SKLlscq6EqEZtCj_HPxx-91" value="TCE Goofy Runtime" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="54.5" y="610" width="280" height="60" as="geometry" />
         </mxCell>
         <mxCell id="SKLlscq6EqEZtCj_HPxx-95" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;strokeColor=#F19C99;strokeWidth=3;" edge="1" parent="1" source="SKLlscq6EqEZtCj_HPxx-94" target="SKLlscq6EqEZtCj_HPxx-58">
@@ -225,6 +225,21 @@
         </mxCell>
         <mxCell id="SKLlscq6EqEZtCj_HPxx-107" value="目前只有 web page 在 tce, 未来支持 node" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
           <mxGeometry x="300" y="600" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="SKLlscq6EqEZtCj_HPxx-114" value="" style="rounded=1;arcSize=10;fillColor=none;gradientColor=none;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1950" y="120" width="540" height="680" as="geometry" />
+        </mxCell>
+        <mxCell id="SKLlscq6EqEZtCj_HPxx-115" value="Common Container Layer (System)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1990" y="715" width="460" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SKLlscq6EqEZtCj_HPxx-117" value="web page container" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1990" y="635" width="460" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SKLlscq6EqEZtCj_HPxx-122" value="TCE Runtime Stack" style="rounded=1;align=center;fillColor=#F1F2F4;strokeColor=none;html=1;fontColor=#596780;fontSize=12" vertex="1" parent="1">
+          <mxGeometry x="2161" y="130" width="118" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="SKLlscq6EqEZtCj_HPxx-123" value="Configures" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1990" y="555" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-08-31T09:36:43.010Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.5112.102 Safari/537.36 Edg/104.0.1293.70" etag="B76aq1lxFWhmfi_L3Dak" version="20.2.7" type="github">
+<mxfile host="app.diagrams.net" modified="2022-08-31T09:36:54.405Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.5112.102 Safari/537.36 Edg/104.0.1293.70" etag="G0QTQ_VSuqXjLQAF9ut1" version="20.2.7" type="github">
   <diagram id="ApqZX60I4U8o_GcmxlXe" name="Page-1">
     <mxGraphModel dx="2253" dy="3132" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -676,7 +676,7 @@
           <mxGeometry x="580" y="-2070" width="60" height="20" as="geometry" />
         </mxCell>
         <mxCell id="NdK31hNnENeKDwvImRqi-31" value="HDD Host" style="dashed=0;html=1;fillColor=#F0F2F5;strokeColor=none;align=center;rounded=1;arcSize=10;fontColor=#596780;fontStyle=1;fontSize=11;shadow=0" vertex="1" parent="1">
-          <mxGeometry x="120" y="-1690" width="70" height="20" as="geometry" />
+          <mxGeometry x="129" y="-1680" width="70" height="20" as="geometry" />
         </mxCell>
         <mxCell id="NdK31hNnENeKDwvImRqi-33" value="worker manager" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="416" y="-1650" width="120" height="60" as="geometry" />
@@ -712,7 +712,7 @@
           <mxGeometry x="120" y="-1370" width="440" height="60" as="geometry" />
         </mxCell>
         <mxCell id="NdK31hNnENeKDwvImRqi-44" value="HDD Host" style="dashed=0;html=1;fillColor=#F0F2F5;strokeColor=none;align=center;rounded=1;arcSize=10;fontColor=#596780;fontStyle=1;fontSize=11;shadow=0" vertex="1" parent="1">
-          <mxGeometry x="590" y="-1690" width="70" height="20" as="geometry" />
+          <mxGeometry x="600" y="-1680" width="70" height="20" as="geometry" />
         </mxCell>
         <mxCell id="NdK31hNnENeKDwvImRqi-45" value="worker manager" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="886" y="-1650" width="120" height="60" as="geometry" />

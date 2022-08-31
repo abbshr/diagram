@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-08-31T06:08:57.041Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.5112.102 Safari/537.36 Edg/104.0.1293.70" etag="xnL3FpA8eeOFiTMfLlCd" version="20.2.7" type="github">
+<mxfile host="app.diagrams.net" modified="2022-08-31T06:52:45.923Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.5112.102 Safari/537.36 Edg/104.0.1293.70" etag="_73rzTFe0nE_k5eCNVSy" version="20.2.7" type="github">
   <diagram id="ApqZX60I4U8o_GcmxlXe" name="Page-1">
     <mxGraphModel dx="2253" dy="3132" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -758,6 +758,18 @@
         </mxCell>
         <mxCell id="NdK31hNnENeKDwvImRqi-60" value="TLB" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1340" y="-1540" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NdK31hNnENeKDwvImRqi-62" value="流量调度" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
+          <mxGeometry x="1166" y="-1490" width="75" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="NdK31hNnENeKDwvImRqi-63" value="副本调度" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
+          <mxGeometry x="471" y="-1753" width="75" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="NdK31hNnENeKDwvImRqi-64" value="流控下发" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
+          <mxGeometry x="552.5" y="-1753" width="75" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="NdK31hNnENeKDwvImRqi-65" value="动态策略" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
+          <mxGeometry x="630.5" y="-1753" width="75" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

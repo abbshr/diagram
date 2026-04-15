@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>像素风机甲对战 - Pixel Mech Battle</title>
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+  <div class="container">
+    <h1>像素风机甲对战</h1>
+    
+    <div class="canvas-wrapper">
+      <canvas id="gameCanvas" width="800" height="400"></canvas>
+    </div>
+    
+    <div class="controls">
+      <button class="btn" id="startBtn">开始游戏</button>
+      <button class="btn" id="resetBtn">重置游戏</button>
+    </div>
+    
+    <div class="instructions">
+      <div class="instruction-panel p1">
+        <h3>玩家 1 (蓝色)</h3>
+        <ul>
+          <li><span class="key">A</span> 向左移动</li>
+          <li><span class="key">D</span> 向右移动</li>
+          <li><span class="key">W</span> 跳跃</li>
+          <li><span class="key">J</span> 攻击</li>
+          <li><span class="key">K</span> 防御</li>
+        </ul>
+      </div>
+      
+      <div class="instruction-panel p2">
+        <h3>玩家 2 (红色)</h3>
+        <ul>
+          <li><span class="key">←</span> 向左移动</li>
+          <li><span class="key">→</span> 向右移动</li>
+          <li><span class="key">↑</span> 跳跃</li>
+          <li><span class="key">,</span> 攻击</li>
+          <li><span class="key">.</span> 防御</li>
+        </ul>
+      </div>
+    </div>
+  </div>
+  
+  <script src="js/mech.js"></script>
+  <script src="js/game.js"></script>
+</body>
+</html>

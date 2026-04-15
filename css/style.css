@@ -1,0 +1,152 @@
+@import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap');
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: 'Press Start 2P', monospace;
+  background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%);
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: 20px;
+  color: #ffffff;
+}
+
+.container {
+  text-align: center;
+}
+
+h1 {
+  font-size: 24px;
+  margin-bottom: 20px;
+  text-shadow: 4px 4px 0px #00aaff, 8px 8px 0px #ff4444;
+  letter-spacing: 2px;
+}
+
+.canvas-wrapper {
+  border: 4px solid #ffffff;
+  box-shadow: 0 0 20px rgba(0, 170, 255, 0.5),
+              0 0 40px rgba(255, 68, 68, 0.3);
+  margin-bottom: 20px;
+  background: #000000;
+}
+
+#gameCanvas {
+  display: block;
+  image-rendering: pixelated;
+  image-rendering: crisp-edges;
+}
+
+.controls {
+  display: flex;
+  gap: 20px;
+  justify-content: center;
+  margin-bottom: 30px;
+}
+
+.btn {
+  font-family: 'Press Start 2P', monospace;
+  font-size: 12px;
+  padding: 12px 24px;
+  background: #333333;
+  color: #ffffff;
+  border: 4px solid #ffffff;
+  cursor: pointer;
+  transition: all 0.1s;
+  text-transform: uppercase;
+}
+
+.btn:hover {
+  background: #00aaff;
+  transform: translate(-2px, -2px);
+  box-shadow: 2px 2px 0px #ffffff;
+}
+
+.btn:active {
+  transform: translate(0px, 0px);
+  box-shadow: none;
+}
+
+.instructions {
+  display: flex;
+  justify-content: space-around;
+  gap: 40px;
+  max-width: 800px;
+}
+
+.instruction-panel {
+  flex: 1;
+  padding: 20px;
+  border: 4px solid;
+  background: rgba(0, 0, 0, 0.5);
+}
+
+.instruction-panel.p1 {
+  border-color: #00aaff;
+}
+
+.instruction-panel.p2 {
+  border-color: #ff4444;
+}
+
+.instruction-panel h3 {
+  font-size: 14px;
+  margin-bottom: 15px;
+  text-transform: uppercase;
+}
+
+.instruction-panel.p1 h3 {
+  color: #00aaff;
+}
+
+.instruction-panel.p2 h3 {
+  color: #ff4444;
+}
+
+.instruction-panel ul {
+  list-style: none;
+  text-align: left;
+}
+
+.instruction-panel li {
+  font-size: 10px;
+  margin-bottom: 10px;
+  line-height: 1.6;
+  padding: 5px;
+  background: rgba(255, 255, 255, 0.1);
+  border-left: 4px solid;
+}
+
+.instruction-panel.p1 li {
+  border-left-color: #00aaff;
+}
+
+.instruction-panel.p2 li {
+  border-left-color: #ff4444;
+}
+
+.key {
+  display: inline-block;
+  background: #333333;
+  padding: 4px 8px;
+  border: 2px solid #ffffff;
+  margin-right: 8px;
+  font-size: 9px;
+}
+
+@media (max-width: 900px) {
+  .instructions {
+    flex-direction: column;
+    gap: 20px;
+  }
+  
+  h1 {
+    font-size: 16px;
+  }
+}
